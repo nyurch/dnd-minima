@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fabricate
+---
 level: 4
 school: transmutation
 classes: wizard

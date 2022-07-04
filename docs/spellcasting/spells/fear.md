@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fear
+---
 level: 3
 school: illusion
 classes: bard

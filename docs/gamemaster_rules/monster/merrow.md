@@ -1,4 +1,7 @@
+---
+layout: default
 name: Merrow
+---
 type: monstrosity
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloaker
+---
 type: aberration
 cr: 8
 

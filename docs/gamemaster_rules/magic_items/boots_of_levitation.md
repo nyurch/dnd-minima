@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boots of Levitation
+---
 type: item
 
 # Boots of Levitation 

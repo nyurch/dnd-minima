@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gray Ooze
+---
 type: ooze
 cr: .5
 

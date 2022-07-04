@@ -1,4 +1,7 @@
+---
+layout: default
 name: Merfolk
+---
 type: humanoid (merfolk)
 cr: .125
 

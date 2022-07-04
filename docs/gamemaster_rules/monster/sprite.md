@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sprite
+---
 type: fey
 cr: .25
 

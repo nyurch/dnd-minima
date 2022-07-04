@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Swimming
+---
 type: ring
 
 # Ring of Swimming 

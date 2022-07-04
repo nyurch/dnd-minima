@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wind Wall
+---
 level: 3
 school: evocation
 classes: druid

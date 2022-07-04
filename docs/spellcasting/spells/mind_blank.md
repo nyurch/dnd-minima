@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mind Blank
+---
 level: 8
 school: abjuration
 classes: bard

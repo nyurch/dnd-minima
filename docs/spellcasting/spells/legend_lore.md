@@ -1,4 +1,7 @@
+---
+layout: default
 name: Legend Lore
+---
 level: 5
 school: divination
 classes: bard

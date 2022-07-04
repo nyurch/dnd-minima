@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mithral Armor
+---
 type: armor
 
 # Mithral Armor 

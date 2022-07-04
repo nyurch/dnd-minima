@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult White Dragon
+---
 type: dragon
 cr: 13
 

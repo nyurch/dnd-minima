@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eversmoking Bottle
+---
 type: item
 
 # Eversmoking Bottle 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boar
+---
 type: beast
 cr: .25
 

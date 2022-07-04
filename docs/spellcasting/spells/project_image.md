@@ -1,4 +1,7 @@
+---
+layout: default
 name: Project Image
+---
 level: 7
 school: illusion
 classes: bard

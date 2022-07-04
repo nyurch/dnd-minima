@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dominate Beast
+---
 level: 4
 school: enchantment
 classes: druid

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Polymorph
+---
 level: 4
 school: transmutation
 classes: bard

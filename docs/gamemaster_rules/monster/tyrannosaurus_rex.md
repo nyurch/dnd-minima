@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tyrannosaurus Rex
+---
 type: beast
 cr: 8
 

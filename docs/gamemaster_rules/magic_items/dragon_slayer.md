@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dragon Slayer
+---
 type: weapon
 
 # Dragon Slayer 

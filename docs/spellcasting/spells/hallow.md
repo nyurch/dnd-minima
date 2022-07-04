@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hallow
+---
 level: 5
 school: evocation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mage Hand
+---
 level: 0
 school: conjuration
 classes: bard

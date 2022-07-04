@@ -1,4 +1,7 @@
+---
+layout: default
 name: Vampire
+---
 type: undead (shapechanger)
 cr: 13
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ghost
+---
 type: undead
 cr: 4
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of the Manta Ray
+---
 type: item
 
 # Cloak of the Manta Ray 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ogre Zombie
+---
 type: undead
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Nondetection 
+---
 level: 3
 school: abjuration
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Doppelganger
+---
 type: monstrosity
 cr: 3
 

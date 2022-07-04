@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Water Breathing
+---
 type: potion
 
 # Potion of Water Breathing 

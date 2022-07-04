@@ -1,4 +1,7 @@
+---
+layout: default
 name: Helm of Telepathy
+---
 type: item
 
 # Helm of Telepathy 

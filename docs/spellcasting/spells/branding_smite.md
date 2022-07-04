@@ -1,4 +1,7 @@
+---
+layout: default
 name: Branding Smite
+---
 level: 2
 school: evocation
 classes: paladin

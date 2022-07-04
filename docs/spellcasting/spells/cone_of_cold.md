@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cone of Cold
+---
 level: 5
 school: evocation
 classes: sorcerer

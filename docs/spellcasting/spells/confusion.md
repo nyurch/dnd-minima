@@ -1,4 +1,7 @@
+---
+layout: default
 name: Confusion
+---
 level: 4
 school: enchantment
 classes: bard

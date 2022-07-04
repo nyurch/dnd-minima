@@ -1,4 +1,7 @@
+---
+layout: default
 name: Remove Curse
+---
 level: 3
 school: abjuration
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Speak with Dead
+---
 level: 3
 school: necromancy
 classes: bard

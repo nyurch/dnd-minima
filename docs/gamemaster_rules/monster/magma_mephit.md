@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magma Mephit
+---
 type: elemental
 cr: .5
 

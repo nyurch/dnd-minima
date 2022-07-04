@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hold Monster
+---
 level: 5
 school: enchantment
 classes: bard

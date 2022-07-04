@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cube of Force
+---
 type: item
 
 # Cube of Force 

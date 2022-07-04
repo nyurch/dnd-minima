@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dretch
+---
 type: fiend (demon)
 cr: .25
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boots of Striding and Springing
+---
 type: item
 
 # Boots of Striding and Springing 

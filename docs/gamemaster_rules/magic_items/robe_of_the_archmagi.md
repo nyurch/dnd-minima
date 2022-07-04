@@ -1,4 +1,7 @@
+---
+layout: default
 name: Robe of the Archmagi
+---
 type: item
 
 # Robe of the Archmagi 

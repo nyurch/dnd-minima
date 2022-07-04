@@ -1,4 +1,7 @@
+---
+layout: default
 # Spellcasting
+---
 ## General Spellcasting
 
 * [Casting a Spell](/spellcasting/casting_a_spell/)

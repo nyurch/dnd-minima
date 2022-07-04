@@ -1,4 +1,7 @@
+---
+layout: default
 name: Quasit
+---
 type: fiend (demon)
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Apparatus of the Crab
+---
 type: item
 
 # Apparatus of the Crab 

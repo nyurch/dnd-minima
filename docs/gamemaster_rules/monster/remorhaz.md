@@ -1,4 +1,7 @@
+---
+layout: default
 name: Remorhaz
+---
 type: monstrosity
 cr: 11
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rat
+---
 type: beast
 cr: 0
 

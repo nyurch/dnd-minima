@@ -1,4 +1,7 @@
+---
+layout: default
 name: Panther
+---
 type: beast
 cr: .25
 

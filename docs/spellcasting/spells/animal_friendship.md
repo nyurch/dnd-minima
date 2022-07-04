@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animal Friendship
+---
 level: 1
 school: enchantment
 classes: bard

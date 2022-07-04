@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Clairvoyance
+---
 type: potion
 
 # Potion of Clairvoyance 

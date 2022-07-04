@@ -1,4 +1,7 @@
+---
+layout: default
 name: Skeleton
+---
 type: undead
 cr: .25
 

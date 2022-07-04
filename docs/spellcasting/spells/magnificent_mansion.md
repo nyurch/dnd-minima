@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magnificent Mansion
+---
 level: 7
 school: conjuration
 classes: bard

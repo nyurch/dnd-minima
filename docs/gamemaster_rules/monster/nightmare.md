@@ -1,4 +1,7 @@
+---
+layout: default
 name: Nightmare
+---
 type: fiend
 cr: 3
 

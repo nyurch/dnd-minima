@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flying Sword
+---
 type: construct
 cr: .25
 

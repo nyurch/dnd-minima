@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gate
+---
 level: 9
 school: conjuration
 classes: cleric

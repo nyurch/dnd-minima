@@ -1,4 +1,7 @@
+---
+layout: default
 name: Knight
+---
 type: humanoid (any race)
 cr: 3
 

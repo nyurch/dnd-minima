@@ -1,4 +1,7 @@
+---
+layout: default
 name: Weird
+---
 level: 9
 school: illusion
 classes: wizard

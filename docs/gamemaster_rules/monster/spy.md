@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spy
+---
 type: humanoid (any race)
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hellish Rebuke
+---
 level: 1
 school: evocation
 classes: warlock

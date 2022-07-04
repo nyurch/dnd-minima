@@ -1,4 +1,7 @@
+---
+layout: default
 name: Secret Chest
+---
 level: 4
 school: conjuration
 classes: wizard

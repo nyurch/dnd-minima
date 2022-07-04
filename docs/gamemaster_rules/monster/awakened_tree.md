@@ -1,4 +1,7 @@
+---
+layout: default
 name: Awakened Tree
+---
 type: plant
 cr: 2
 

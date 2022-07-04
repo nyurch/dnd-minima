@@ -1,4 +1,7 @@
+---
+layout: default
 name: Instant Summons
+---
 level: 6
 school: conjuration
 classes: wizard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Oil of Sharpness
+---
 type: potion
 
 # Oil of Sharpness 

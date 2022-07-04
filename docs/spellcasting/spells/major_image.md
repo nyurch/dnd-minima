@@ -1,4 +1,7 @@
+---
+layout: default
 name: Major Image
+---
 level: 3
 school: illusion
 classes: bard

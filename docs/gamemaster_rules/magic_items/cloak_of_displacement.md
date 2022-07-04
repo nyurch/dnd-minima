@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of Displacement
+---
 type: item
 
 # Cloak of Displacement 

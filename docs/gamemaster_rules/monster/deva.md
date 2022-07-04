@@ -1,4 +1,7 @@
+---
+layout: default
 name: Deva
+---
 cr: 10
 type: celestial
 

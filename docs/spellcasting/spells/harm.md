@@ -1,4 +1,7 @@
+---
+layout: default
 name: Harm
+---
 level: 6
 school: necromancy
 classes: cleric

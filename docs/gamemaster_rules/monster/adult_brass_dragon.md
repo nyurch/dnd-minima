@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Brass Dragon
+---
 type: dragon
 cr: 13
 

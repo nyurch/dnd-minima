@@ -1,4 +1,7 @@
+---
+layout: default
 name: Misty Step
+---
 level: 2
 school: conjuration
 classes: sorcerer

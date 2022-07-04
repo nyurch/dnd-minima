@@ -1,4 +1,7 @@
+---
+layout: default
 name: Imp
+---
 type: fiend (devil)
 cr: 1
 

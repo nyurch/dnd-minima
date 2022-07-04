@@ -1,4 +1,7 @@
+---
+layout: default
 name: Half-Red Dragon Veteran
+---
 type: humanoid (human)
 cr: 5
 

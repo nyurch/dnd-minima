@@ -1,4 +1,7 @@
+---
+layout: default
 name: Vampire Spawn
+---
 type: undead
 cr: 5
 

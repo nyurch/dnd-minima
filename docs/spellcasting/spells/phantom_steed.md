@@ -1,4 +1,7 @@
+---
+layout: default
 name: Phantom Steed
+---
 level: 3
 school: illusion
 classes: wizard

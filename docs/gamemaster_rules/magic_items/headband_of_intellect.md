@@ -1,4 +1,7 @@
+---
+layout: default
 name: Headband of Intellect
+---
 type: item
 
 # Headband of Intellect 

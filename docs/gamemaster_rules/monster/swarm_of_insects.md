@@ -1,4 +1,7 @@
+---
+layout: default
 name: Swarm of Insects
+---
 type: swarm of Tiny beasts
 cr: .5
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Helm of Brilliance
+---
 type: item
 
 # Helm of Brilliance 

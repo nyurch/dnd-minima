@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Silver Dragon
+---
 type: dragon
 cr: 16
 

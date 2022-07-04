@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Silver Dragon
+---
 type: dragon
 cr: 23
 

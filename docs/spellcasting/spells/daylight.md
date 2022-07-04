@@ -1,4 +1,7 @@
+---
+layout: default
 name: Daylight
+---
 level: 3
 school: evocation
 classes: cleric

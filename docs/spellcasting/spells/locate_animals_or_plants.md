@@ -1,4 +1,7 @@
+---
+layout: default
 name: Locate Animals or Plants
+---
 level: 2
 school: divination
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Speak with Animals
+---
 level: 1
 school: divination
 classes: bard

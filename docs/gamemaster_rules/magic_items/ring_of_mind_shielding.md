@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Mind Shielding
+---
 type: ring
 
 # Ring of Mind Shielding 

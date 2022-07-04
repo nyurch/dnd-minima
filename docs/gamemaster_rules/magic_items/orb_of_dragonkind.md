@@ -1,4 +1,7 @@
+---
+layout: default
 name: Orb of Dragonkind
+---
 type: artifact
 
 # Orb of Dragonkind 

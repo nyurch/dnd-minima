@@ -1,4 +1,7 @@
+---
+layout: default
 name: Staff of Charming
+---
 type: staff
 
 # Staff of Charming 

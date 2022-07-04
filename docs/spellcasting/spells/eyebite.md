@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eyebite
+---
 level: 6
 school: necromancy
 classes: bard

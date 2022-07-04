@@ -1,4 +1,7 @@
+---
+layout: default
 name: Water Breathing
+---
 level: 3
 school: transmutation
 classes: druid

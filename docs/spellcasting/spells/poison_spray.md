@@ -1,4 +1,7 @@
+---
+layout: default
 name: Poison Spray
+---
 level: 0
 school: conjuration
 classes: druid

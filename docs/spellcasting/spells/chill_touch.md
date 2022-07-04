@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chill Touch
+---
 level: 0
 school: necromancy
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Healing Word
+---
 level: 1
 school: evocation
 classes: bard

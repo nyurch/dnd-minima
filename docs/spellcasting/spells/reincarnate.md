@@ -1,4 +1,7 @@
+---
+layout: default
 name: Reincarnate
+---
 level: 5
 school: transmutation
 classes: druid

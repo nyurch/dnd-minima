@@ -1,4 +1,7 @@
+---
+layout: default
 name: Prismatic Wall
+---
 level: 9
 school: abjuration
 classes: wizard

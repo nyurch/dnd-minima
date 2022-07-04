@@ -1,4 +1,7 @@
+---
+layout: default
 name: Holy Avenger
+---
 type: weapon
 
 # Holy Avenger 

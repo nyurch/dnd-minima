@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mace of Terror
+---
 type: weapon
 
 # Mace of Terror 

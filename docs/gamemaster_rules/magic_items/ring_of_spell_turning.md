@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Spell Turning
+---
 type: ring
 
 # Ring of Spell Turning 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mimic
+---
 type: monstrosity (shapechanger)
 cr: 2
 

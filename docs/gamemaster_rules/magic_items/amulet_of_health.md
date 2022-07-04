@@ -1,4 +1,7 @@
+---
+layout: default
 name: Amulet of Health
+---
 type: item
 
 # Amulet of Health 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Bat
+---
 type: beast
 cr: .25
 

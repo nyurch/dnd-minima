@@ -1,4 +1,7 @@
+---
+layout: default
 name: Word of Recall
+---
 level: 6
 school: conjuration
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Gold Dragon
+---
 type: dragon
 cr: 24
 

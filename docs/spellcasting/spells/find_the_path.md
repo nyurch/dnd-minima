@@ -1,4 +1,7 @@
+---
+layout: default
 name: Find the Path
+---
 level: 6
 school: divination
 classes: bard

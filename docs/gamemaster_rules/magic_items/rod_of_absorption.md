@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rod of Absorption
+---
 type: rod
 
 # Rod of Absorption 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Water Elemental
+---
 type: elemental
 cr: 5
 

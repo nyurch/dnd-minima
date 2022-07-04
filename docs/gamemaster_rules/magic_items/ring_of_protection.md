@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Protection
+---
 type: ring
 
 # Ring of Protection 

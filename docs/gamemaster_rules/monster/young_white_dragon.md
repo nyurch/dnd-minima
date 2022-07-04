@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young White Dragon
+---
 type: dragon
 cr: 6
 

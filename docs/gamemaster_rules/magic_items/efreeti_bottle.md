@@ -1,4 +1,7 @@
+---
+layout: default
 name: Efreeti Bottle
+---
 type: item
 
 # Efreeti Bottle 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lamia
+---
 type: monstrosity
 cr: 4
 

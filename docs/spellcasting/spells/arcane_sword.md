@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arcane Sword
+---
 level: 7
 school: evocation
 classes: bard

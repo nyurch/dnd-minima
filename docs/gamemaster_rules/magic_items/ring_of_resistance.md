@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Resistance
+---
 type: ring
 
 # Ring of Resistance 

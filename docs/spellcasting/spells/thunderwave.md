@@ -1,4 +1,7 @@
+---
+layout: default
 name: Thunderwave
+---
 level: 1
 school: evocation
 classes: bard

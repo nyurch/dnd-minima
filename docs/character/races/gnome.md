@@ -1,4 +1,7 @@
+---
+layout: default
 description: Rules and information for the Gnome race from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # Gnome 
 ## Gnome Traits 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Healing
+---
 type: potion
 
 # Potion of Healing 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: True Polymorph
+---
 level: 9
 school: transmutation
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Helm of Teleportation
+---
 type: item
 
 # Helm of Teleportation 

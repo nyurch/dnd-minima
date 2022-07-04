@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ioun Stone
+---
 type: item
 
 # Ioun Stone 

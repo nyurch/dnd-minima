@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Climbing
+---
 type: potion
 
 # Potion of Climbing 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Crab
+---
 type: beast
 cr: 0
 

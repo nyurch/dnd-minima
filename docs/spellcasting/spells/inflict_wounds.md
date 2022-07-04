@@ -1,4 +1,7 @@
+---
+layout: default
 name: Inflict Wounds
+---
 level: 1
 school: necromancy
 classes: cleric

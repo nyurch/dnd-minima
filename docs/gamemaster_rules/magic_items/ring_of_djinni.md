@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Djinni
+---
 type: ring
 
 # Ring of Djinni Summoning 

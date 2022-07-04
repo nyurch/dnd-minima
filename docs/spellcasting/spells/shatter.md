@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shatter
+---
 level: 2
 school: evocation
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ghoul
+---
 type: undead
 cr: 1
 

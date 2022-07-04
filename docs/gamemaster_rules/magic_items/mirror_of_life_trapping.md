@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mirror of Life Trapping
+---
 type: item
 
 # Mirror of Life Trapping 

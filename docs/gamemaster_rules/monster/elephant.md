@@ -1,4 +1,7 @@
+---
+layout: default
 name: Elephant
+---
 type: beast
 cr: 4
 

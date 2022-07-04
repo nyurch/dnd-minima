@@ -1,4 +1,7 @@
+---
+layout: default
 name: Horn of Blasting
+---
 type: item
 
 # Horn of Blasting 

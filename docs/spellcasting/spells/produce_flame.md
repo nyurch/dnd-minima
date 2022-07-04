@@ -1,4 +1,7 @@
+---
+layout: default
 name: Produce Flame
+---
 level: 0
 school: conjuration
 classes: druid

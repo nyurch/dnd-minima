@@ -1,4 +1,7 @@
+---
+layout: default
 name: Prayer of Healing
+---
 level: 2
 school: evocation
 classes: cleric

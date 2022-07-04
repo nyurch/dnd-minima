@@ -1,4 +1,7 @@
+---
+layout: default
 name: Resurrection
+---
 level: 7
 school: necromancy
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stone Giant
+---
 type: giant
 cr: 7
 

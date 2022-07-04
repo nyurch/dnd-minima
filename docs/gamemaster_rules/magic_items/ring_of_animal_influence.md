@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Animal Influence
+---
 type: ring
 
 # Ring of Animal Influence 

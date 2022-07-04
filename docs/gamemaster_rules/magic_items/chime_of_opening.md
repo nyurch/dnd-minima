@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chime of Opening
+---
 type: item
 
 # Chime of Opening 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Vulture
+---
 type: beast
 cr: 0
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cubic Gate
+---
 type: item
 
 # Cubic Gate 

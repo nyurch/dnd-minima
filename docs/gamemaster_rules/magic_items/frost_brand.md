@@ -1,4 +1,7 @@
+---
+layout: default
 name: Frost Brand
+---
 type: weapon
 
 # Frost Brand 

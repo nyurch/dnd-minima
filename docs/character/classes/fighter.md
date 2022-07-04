@@ -1,4 +1,7 @@
+---
+layout: default
 description: Rules and information for the Fighter class from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # The Fighter
 | Level | Proficiency Bonus | Features                    |

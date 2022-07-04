@@ -1,4 +1,7 @@
+---
+layout: default
 name: Locate Object
+---
 level: 2
 school: divination
 classes: bard

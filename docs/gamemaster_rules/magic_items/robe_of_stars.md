@@ -1,4 +1,7 @@
+---
+layout: default
 name: Robe of Stars
+---
 type: item
 
 # Robe of Stars 

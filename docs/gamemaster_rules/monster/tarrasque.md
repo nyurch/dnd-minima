@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tarrasque
+---
 type: monstrosity
 cr: 30
 

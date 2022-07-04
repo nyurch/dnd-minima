@@ -1,4 +1,7 @@
+---
+layout: default
 name: Otyugh
+---
 type: aberration
 cr: 5
 

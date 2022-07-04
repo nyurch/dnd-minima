@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stone Golem
+---
 type: construct
 cr: 10
 

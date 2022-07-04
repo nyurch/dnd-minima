@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dominate Monster
+---
 level: 8
 school: enchantment
 classes: bard

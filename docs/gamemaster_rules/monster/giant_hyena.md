@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Hyena
+---
 type: beast
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Polar Bear
+---
 type: beast
 cr: 2
 

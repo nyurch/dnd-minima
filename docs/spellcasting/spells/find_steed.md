@@ -1,4 +1,7 @@
+---
+layout: default
 name: Find Steed
+---
 level: 2
 school: conjuration
 classes: paladin

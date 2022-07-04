@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tribal Warrior
+---
 type: humanoid (any race)
 cr: .125
 

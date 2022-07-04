@@ -1,4 +1,7 @@
+---
+layout: default
 name: Aid
+---
 level: 2
 school: abjuration
 classes: cleric

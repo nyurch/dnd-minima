@@ -1,4 +1,7 @@
+---
+layout: default
 name: Protection from Poison
+---
 level: 2
 school: abjuration
 classes: cleric

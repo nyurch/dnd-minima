@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Elk
+---
 type: beast
 cr: 2
 

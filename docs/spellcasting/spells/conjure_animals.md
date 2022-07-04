@@ -1,4 +1,7 @@
+---
+layout: default
 name: Conjure Animals
+---
 level: 3
 school: conjuration
 classes: druid

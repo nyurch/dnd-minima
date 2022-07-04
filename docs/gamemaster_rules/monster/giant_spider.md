@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Spider
+---
 type: beast
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Geas
+---
 level: 5
 school: enchantment
 classes: bard

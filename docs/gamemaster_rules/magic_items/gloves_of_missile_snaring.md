@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gloves of Missile Snaring
+---
 type: item
 
 # Gloves of Missile Snaring 

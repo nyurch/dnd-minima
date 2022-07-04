@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sunbeam
+---
 level: 6
 school: evocation
 classes: druid

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scorpion
+---
 type: beast
 cr: 0
 

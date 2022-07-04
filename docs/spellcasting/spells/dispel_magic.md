@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dispel Magic
+---
 level: 3
 school: abjuration
 classes: bard

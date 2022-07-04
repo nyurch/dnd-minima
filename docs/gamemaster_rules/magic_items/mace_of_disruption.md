@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mace of Disruption
+---
 type: weapon
 
 # Mace of Disruption 

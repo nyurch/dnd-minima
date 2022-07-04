@@ -1,4 +1,7 @@
+---
+layout: default
 name: Kraken
+---
 type: monstrosity (titan)
 cr: 23
 

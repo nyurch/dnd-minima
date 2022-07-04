@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gem of Seeing
+---
 type: item
 
 # Gem of Seeing 

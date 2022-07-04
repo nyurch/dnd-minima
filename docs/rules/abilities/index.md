@@ -1,4 +1,7 @@
+---
+layout: default
 # Abilities
+---
 
 * [Ability Checks](/rules/abilities/ability_checks/)
 * [Ability Scores](/rules/abilities/ability_scores/)

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Free Action
+---
 type: ring
 
 # Ring of Free Action 

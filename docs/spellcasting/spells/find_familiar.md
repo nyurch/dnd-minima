@@ -1,4 +1,7 @@
+---
+layout: default
 name: Find Familiar
+---
 level: 1
 school: conjuration
 classes: wizard

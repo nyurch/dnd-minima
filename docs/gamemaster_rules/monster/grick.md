@@ -1,4 +1,7 @@
+---
+layout: default
 name: Grick
+---
 type: monstrosity
 cr: 2
 

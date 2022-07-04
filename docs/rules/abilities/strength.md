@@ -1,4 +1,7 @@
+---
+layout: default
 description: Information on the Strength ability from the 5th Edition (5e) System Reference Document (SRD)
+---
 
 # Strength 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force. 

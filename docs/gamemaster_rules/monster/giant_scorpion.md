@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Scorpion
+---
 type: beast
 cr: 3
 

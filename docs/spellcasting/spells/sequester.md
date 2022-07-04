@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sequester
+---
 level: 7
 school: transmutation
 classes: wizard

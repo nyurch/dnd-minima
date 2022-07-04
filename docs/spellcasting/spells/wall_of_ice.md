@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wall of Ice
+---
 level: 6
 school: evocation
 classes: wizard

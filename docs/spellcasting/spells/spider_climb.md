@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spider Climb
+---
 level: 2
 school: transmutation
 classes: sorcerer

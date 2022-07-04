@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Speed
+---
 type: potion
 
 # Potion of Speed 

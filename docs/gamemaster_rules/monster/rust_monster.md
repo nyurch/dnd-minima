@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rust Monster
+---
 type: monstrosity
 cr: .5
 

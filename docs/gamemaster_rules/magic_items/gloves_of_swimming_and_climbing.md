@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gloves of Swimming and Climbing
+---
 type: item
 
 # Gloves of Swimming and Climbing 

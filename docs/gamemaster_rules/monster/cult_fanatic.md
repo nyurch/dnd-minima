@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cult Fanatic
+---
 type: humanoid (any race)
 cr: 2
 

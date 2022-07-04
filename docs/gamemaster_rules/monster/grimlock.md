@@ -1,4 +1,7 @@
+---
+layout: default
 name: Grimlock
+---
 type: humanoid (grimlock)
 cr: .25
 

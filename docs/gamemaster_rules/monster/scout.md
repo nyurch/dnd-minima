@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scout
+---
 type: humanoid (any race)
 cr: .5
 

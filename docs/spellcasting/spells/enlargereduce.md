@@ -1,4 +1,7 @@
+---
+layout: default
 name: Enlarge/Reduce
+---
 level: 2
 school: transmutation
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hold Person
+---
 level: 2
 school: enchantment
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Androsphinx
+---
 type: monstrosity
 cr: 17
 

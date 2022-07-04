@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pearl of Power
+---
 type: item
 
 # Pearl of Power 

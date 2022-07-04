@@ -1,4 +1,7 @@
+---
+layout: default
 name: Balor
+---
 type: fiend (demon)
 cr: 19
 

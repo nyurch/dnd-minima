@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lizardfolk
+---
 type: humanoid (lizardfolk)
 cr: .5
 

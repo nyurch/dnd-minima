@@ -1,4 +1,7 @@
+---
+layout: default
 name: Horseshoes of Speed
+---
 type: item
 
 # Horseshoes of Speed 

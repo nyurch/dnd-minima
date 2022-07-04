@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pseudodragon
+---
 type: dragon
 cr: .25
 

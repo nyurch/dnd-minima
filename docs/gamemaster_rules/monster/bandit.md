@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bandit
+---
 type: humanoid (any race)
 cr: .125
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of the Bat
+---
 type: item
 
 # Cloak of the Bat 

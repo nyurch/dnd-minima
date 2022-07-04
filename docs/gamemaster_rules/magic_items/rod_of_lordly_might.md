@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rod of Lordly Might
+---
 type: rod
 
 # Rod of Lordly Might 

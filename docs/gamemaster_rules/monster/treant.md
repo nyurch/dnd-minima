@@ -1,4 +1,7 @@
+---
+layout: default
 name: Treant
+---
 type: plant
 cr: 9
 

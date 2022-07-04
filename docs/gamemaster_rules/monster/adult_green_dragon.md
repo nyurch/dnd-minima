@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Green Dragon
+---
 type: dragon
 cr: 15
 

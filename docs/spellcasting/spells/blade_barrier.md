@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blade Barrier
+---
 level: 6
 school: evocation
 classes: cleric

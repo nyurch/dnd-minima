@@ -1,4 +1,7 @@
+---
+layout: default
 name: Portable Hole
+---
 type: item
 
 # Portable Hole 

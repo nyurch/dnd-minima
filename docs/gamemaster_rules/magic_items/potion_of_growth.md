@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Growth
+---
 type: potion
 
 # Potion of Growth 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rod of Rulership
+---
 type: rod
 
 # Rod of Rulership 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Copper Dragon
+---
 type: dragon
 cr: 7
 

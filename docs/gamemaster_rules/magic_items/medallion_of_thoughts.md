@@ -1,4 +1,7 @@
+---
+layout: default
 name: Medallion of Thoughts
+---
 type: item
 
 # Medallion of Thoughts 

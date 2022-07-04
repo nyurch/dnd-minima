@@ -1,4 +1,7 @@
+---
+layout: default
 name: Entangle
+---
 level: 1
 school: conjuration
 classes: druid

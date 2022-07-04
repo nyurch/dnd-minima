@@ -1,4 +1,7 @@
+---
+layout: default
 name: Thug
+---
 type: humanoid (any race)
 cr: .5 
 

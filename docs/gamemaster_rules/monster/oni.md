@@ -1,4 +1,7 @@
+---
+layout: default
 name: Oni
+---
 type: giant
 cr: 7
 

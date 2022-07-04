@@ -1,4 +1,7 @@
+---
+layout: default
 name: Conjure Minor Elementals
+---
 level: 4
 school: conjuration
 classes: druid

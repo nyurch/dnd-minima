@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ankheg
+---
 type: monstrosity
 cr: 2
 

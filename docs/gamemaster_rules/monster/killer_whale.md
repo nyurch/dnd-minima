@@ -1,4 +1,7 @@
+---
+layout: default
 name: Killer Whale
+---
 type: beast
 cr: 3
 

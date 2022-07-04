@@ -1,4 +1,7 @@
+---
+layout: default
 name: Teleportation Circle
+---
 level: 5
 school: conjuration
 classes: bard

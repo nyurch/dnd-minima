@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hunter Shark
+---
 type: beast
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Mind Reading
+---
 type: potion
 
 # Potion of Mind Reading 

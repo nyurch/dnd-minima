@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Blue Dragon
+---
 type: dragon
 cr: 23
 

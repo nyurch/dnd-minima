@@ -1,4 +1,7 @@
+---
+layout: default
 name: Reef Shark
+---
 type: beast
 cr: .5
 

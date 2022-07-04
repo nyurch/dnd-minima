@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Green Dragon
+---
 type: dragon
 cr: 22
 

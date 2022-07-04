@@ -1,4 +1,7 @@
+---
+layout: default
 name: Badger
+---
 type: beast
 cr: 0
 

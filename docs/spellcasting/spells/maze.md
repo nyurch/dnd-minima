@@ -1,4 +1,7 @@
+---
+layout: default
 name: Maze
+---
 level: 8
 school: conjuration
 classes: wizard

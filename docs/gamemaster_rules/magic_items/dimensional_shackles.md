@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dimensional Shackles
+---
 type: item
 
 # Dimensional Shackles 

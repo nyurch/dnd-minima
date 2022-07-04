@@ -1,4 +1,7 @@
+---
+layout: default
 name: Barbed Devil
+---
 type: fiend (devil)
 cr: 5
 

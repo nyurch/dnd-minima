@@ -1,4 +1,7 @@
+---
+layout: default
 name: Red Dragon Wyrmling
+---
 type: dragon
 cr: 4
 

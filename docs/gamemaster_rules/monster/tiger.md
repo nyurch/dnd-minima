@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tiger
+---
 type: beast
 cr: 1
 

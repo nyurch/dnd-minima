@@ -1,4 +1,7 @@
+---
+layout: default
 name: Acid Splash
+---
 level: 0
 school: conjuration
 classes: sorcerer

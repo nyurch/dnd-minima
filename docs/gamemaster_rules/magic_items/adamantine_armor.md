@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adamantine Armor
+---
 type: armor
 
 # Adamantine Armor 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Holy Aura
+---
 level: 8
 school: abjuration
 classes: cleric

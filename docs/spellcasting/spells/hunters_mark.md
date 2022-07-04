@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hunter's Mark
+---
 level: 1
 school: divination
 classes: ranger

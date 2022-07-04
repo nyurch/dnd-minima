@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guardian Naga
+---
 type: monstrosity
 cr: 10
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Vrock
+---
 type: fiend (demon)
 cr: 6
 

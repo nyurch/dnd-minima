@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bag of Beans
+---
 type: item
 
 # Bag of Beans 

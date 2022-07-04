@@ -1,4 +1,7 @@
+---
+layout: default
 name: Zombie
+---
 type: undead
 cr: .25
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Resistance
+---
 type: potion
 
 # Potion of Resistance 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Heroes' Feast
+---
 level: 6
 school: conjuration
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arcanist's Magic Aura
+---
 level: 2
 school: illusion
 classes: wizard

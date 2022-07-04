@@ -1,4 +1,7 @@
+---
+layout: default
 name: Robe of Scintillating Colors
+---
 type: item
 
 # Robe of Scintillating Colors 

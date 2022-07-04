@@ -1,4 +1,7 @@
+---
+layout: default
 name: Oil of Slipperiness
+---
 type: potion
 
 # Oil of Slipperiness 

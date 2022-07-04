@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spell Scroll
+---
 type: scroll
 
 # Spell Scroll 

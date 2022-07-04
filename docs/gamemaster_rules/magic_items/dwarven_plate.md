@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dwarven Plate
+---
 type: armor
 
 # Dwarven Plate 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Medusa
+---
 type: monstrosity
 cr: 6
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chain Lightning
+---
 level: 6
 school: evocation
 classes: sorcerer

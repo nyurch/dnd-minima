@@ -1,4 +1,7 @@
+---
+layout: default
 name: Circlet of Blasting
+---
 type: item
 
 # Circlet of Blasting 

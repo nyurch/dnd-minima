@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wereboar
+---
 type: humanoid (human, shapechanger)
 cr: 4
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chimera
+---
 type: monstrosity
 cr: 6
 

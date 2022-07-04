@@ -1,4 +1,7 @@
+---
+layout: default
 name: Heat Metal
+---
 level: 2
 school: transmutation
 classes: bard

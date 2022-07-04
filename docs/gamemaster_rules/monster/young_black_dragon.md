@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Black Dragon
+---
 type: dragon
 cr: 7
 

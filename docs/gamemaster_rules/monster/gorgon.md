@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gorgon
+---
 type: monstrosity
 cr: 5
 

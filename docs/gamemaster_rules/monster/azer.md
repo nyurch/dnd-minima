@@ -1,4 +1,7 @@
+---
+layout: default
 name: Azer
+---
 type: elemental
 cr: 2
 

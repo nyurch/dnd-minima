@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fog Cloud
+---
 level: 1
 school: conjuration
 classes: druid

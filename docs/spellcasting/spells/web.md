@@ -1,4 +1,7 @@
+---
+layout: default
 name: Web
+---
 level: 2
 school: conjuration
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Conjure Elemental
+---
 level: 5
 school: conjuration
 classes: druid

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Horseshoes of a Zephyr
+---
 type: item
 
 # Horseshoes of a Zephyr 

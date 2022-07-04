@@ -1,4 +1,7 @@
+---
+layout: default
 name: Horned Devil
+---
 type: fiend (devil)
 cr: 11
 

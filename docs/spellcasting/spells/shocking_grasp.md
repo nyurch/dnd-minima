@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shocking Grasp
+---
 level: 0
 school: evocation
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Command
+---
 level: 1
 school: enchantment
 classes: cleric

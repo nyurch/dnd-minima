@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boots of Speed
+---
 type: item
 
 # Boots of Speed 

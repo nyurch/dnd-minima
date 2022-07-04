@@ -1,4 +1,7 @@
+---
+layout: default
 name: Quipper
+---
 type: beast
 cr: 0
 

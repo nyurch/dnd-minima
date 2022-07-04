@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Insect
+---
 level: 4
 school: transmutation
 classes: druid

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Purify Food and Drink
+---
 level: 1
 school: transmutation
 classes: cleric

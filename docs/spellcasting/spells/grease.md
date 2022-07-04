@@ -1,4 +1,7 @@
+---
+layout: default
 name: Grease
+---
 level: 1
 school: conjuration
 classes: wizard

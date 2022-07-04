@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bugbear
+---
 type: humanoid
 cr: 1
 

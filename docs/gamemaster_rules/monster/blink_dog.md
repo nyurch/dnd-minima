@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blink Dog
+---
 type: fey
 cr: .25
 

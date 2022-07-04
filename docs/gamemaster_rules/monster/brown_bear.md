@@ -1,4 +1,7 @@
+---
+layout: default
 name: Brown Bear
+---
 type: beast
 cr: 1
 

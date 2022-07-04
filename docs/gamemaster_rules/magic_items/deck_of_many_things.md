@@ -1,4 +1,7 @@
+---
+layout: default
 name: Deck of Many Things
+---
 type: item
 
 # Deck of Many Things 

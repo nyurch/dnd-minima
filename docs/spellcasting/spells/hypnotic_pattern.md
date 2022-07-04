@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hypnotic Pattern
+---
 level: 3
 school: illusion
 classes: bard

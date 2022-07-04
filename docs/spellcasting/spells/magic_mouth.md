@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magic Mouth
+---
 level: 2
 school: illusion
 classes: bard

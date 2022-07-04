@@ -1,4 +1,7 @@
+---
+layout: default
 name: Goblin
+---
 type: humanoid (goblinoid)
 cr: .25
 

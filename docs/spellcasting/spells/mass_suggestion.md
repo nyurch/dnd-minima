@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mass Suggestion
+---
 level: 6
 school: enchantment
 classes: bard

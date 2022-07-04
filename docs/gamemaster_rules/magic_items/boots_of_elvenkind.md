@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boots of Elvenkind
+---
 type: item
 
 # Boots of Elvenkind 

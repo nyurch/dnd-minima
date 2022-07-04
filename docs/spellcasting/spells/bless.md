@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bless
+---
 level: 1
 school: enchantment
 classes: cleric

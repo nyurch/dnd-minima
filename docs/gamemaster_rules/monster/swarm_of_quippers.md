@@ -1,4 +1,7 @@
+---
+layout: default
 name: Swarm of Quippers
+---
 type: swarm of Tiny beasts
 cr: 1
 

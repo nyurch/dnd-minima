@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spirit Guardians
+---
 level: 3
 school: conjuration
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bestow Curse
+---
 level: 3
 school: necromancy
 classes: bard

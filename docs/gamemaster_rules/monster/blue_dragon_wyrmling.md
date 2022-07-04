@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blue Dragon Wyrmling
+---
 type: dragon
 cr: 3
 

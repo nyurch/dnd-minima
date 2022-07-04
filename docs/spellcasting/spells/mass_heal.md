@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mass Heal
+---
 level: 9
 school: evocation
 classes: cleric

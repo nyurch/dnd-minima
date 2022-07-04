@@ -1,4 +1,7 @@
+---
+layout: default
 name: Meteor Swarm
+---
 level: 9
 school: evocation
 classes: sorcerer

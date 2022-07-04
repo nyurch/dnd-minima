@@ -1,4 +1,7 @@
+---
+layout: default
 name: Berserker
+---
 type: humanoid (any race)
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sea Horse
+---
 type: beast
 cr: 0
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Animal Friendship
+---
 type: potion
 
 # Potion of Animal Friendship 

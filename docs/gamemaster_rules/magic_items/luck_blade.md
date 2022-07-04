@@ -1,4 +1,7 @@
+---
+layout: default
 name: Luck Blade
+---
 type: weapon
 
 # Luck Blade 

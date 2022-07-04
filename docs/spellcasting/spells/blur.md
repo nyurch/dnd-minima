@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blur
+---
 level: 2
 school: illusion
 classes: sorcerer

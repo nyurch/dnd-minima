@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mass Healing Word
+---
 level: 3
 school: evocation
 classes: cleric

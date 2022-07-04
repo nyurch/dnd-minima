@@ -1,4 +1,7 @@
+---
+layout: default
 name: Storm of Vengeance
+---
 level: 9
 school: conjuration
 classes: druid

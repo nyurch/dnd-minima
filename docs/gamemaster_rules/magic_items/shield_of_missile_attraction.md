@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shield of Missile Attraction
+---
 type: armor
 
 # Shield of Missile Attraction 

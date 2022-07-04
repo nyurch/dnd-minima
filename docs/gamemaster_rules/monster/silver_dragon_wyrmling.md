@@ -1,4 +1,7 @@
+---
+layout: default
 name: Silver Dragon Wyrmling
+---
 type: dragon
 cr: 2
 

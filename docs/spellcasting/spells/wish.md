@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wish
+---
 level: 9
 school: conjuration
 classes: sorcerer

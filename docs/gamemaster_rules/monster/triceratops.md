@@ -1,4 +1,7 @@
+---
+layout: default
 name: Triceratops
+---
 type: beast
 cr: 5
 

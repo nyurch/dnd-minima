@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fire Elemental
+---
 type: elemental
 cr: 5
 

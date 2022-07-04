@@ -1,4 +1,7 @@
+---
+layout: default
 name: Candle of Invocation
+---
 type: item
 
 # Candle of Invocation 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Copper Dragon Wyrmling
+---
 type: dragon
 cr: 1
 

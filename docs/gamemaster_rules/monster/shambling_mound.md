@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shambling Mound
+---
 type: plant
 cr: 5
 

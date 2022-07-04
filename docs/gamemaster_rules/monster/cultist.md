@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cultist
+---
 type: humanoid (any race)
 cr: .125
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wall of Fire
+---
 level: 4
 school: evocation
 classes: druid

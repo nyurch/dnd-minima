@@ -1,4 +1,7 @@
+---
+layout: default
 name: Elven Chain
+---
 type: armor
 
 # Elven Chain 

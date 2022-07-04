@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wolf
+---
 type: beast
 cr: .25
 

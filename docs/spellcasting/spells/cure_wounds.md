@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cure Wounds
+---
 level: 1
 school: evocation
 classes: bard

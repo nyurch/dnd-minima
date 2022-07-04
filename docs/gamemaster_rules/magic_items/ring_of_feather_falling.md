@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Feather Falling
+---
 type: ring
 
 # Ring of Feather Falling 

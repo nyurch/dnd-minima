@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Wasp
+---
 type: beast
 cr: .5
 

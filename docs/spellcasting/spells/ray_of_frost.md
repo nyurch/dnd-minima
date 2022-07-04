@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ray of Frost
+---
 level: 0
 school: evocation
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pony
+---
 type: beast
 cr: .125
 

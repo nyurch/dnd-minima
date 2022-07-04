@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shield of Faith
+---
 level: 1
 school: abjuration
 classes: cleric

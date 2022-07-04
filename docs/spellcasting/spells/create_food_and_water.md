@@ -1,4 +1,7 @@
+---
+layout: default
 name: Create Food and Water
+---
 level: 3
 school: conjuration
 classes: cleric

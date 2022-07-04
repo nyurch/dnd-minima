@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Spell Storing
+---
 type: ring
 
 # Ring of Spell Storing 

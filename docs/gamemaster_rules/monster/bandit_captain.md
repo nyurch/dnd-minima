@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bandit Captain
+---
 type: humanoid (any race)
 cr: 2
 

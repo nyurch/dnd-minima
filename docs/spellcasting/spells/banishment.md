@@ -1,4 +1,7 @@
+---
+layout: default
 name: Banishment
+---
 level: 4
 school: abjuration
 classes: paladin

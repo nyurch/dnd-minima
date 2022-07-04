@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ice Mephit
+---
 type: elemental
 cr: .5
 

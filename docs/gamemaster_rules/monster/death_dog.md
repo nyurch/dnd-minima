@@ -1,4 +1,7 @@
+---
+layout: default
 name: Death Dog
+---
 type: monstrosity
 cr: 1
 

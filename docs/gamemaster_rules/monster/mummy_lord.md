@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mummy Lord
+---
 type: undead
 cr: 15
 

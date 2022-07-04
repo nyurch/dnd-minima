@@ -1,4 +1,7 @@
+---
+layout: default
 name: Figurine of Wondrous Power
+---
 type: item
 
 # Figurine of Wondrous Power 

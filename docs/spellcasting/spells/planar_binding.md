@@ -1,4 +1,7 @@
+---
+layout: default
 name: Planar Binding
+---
 level: 5
 school: abjuration
 classes: bard

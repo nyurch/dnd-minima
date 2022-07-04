@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bowl of Command Water Elementals
+---
 type: item
 
 # Bowl of Commanding Water Elementals 

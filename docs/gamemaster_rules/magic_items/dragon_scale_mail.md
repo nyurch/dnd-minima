@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dragon Scale Mail
+---
 type: armor
 
 # Dragon Scale Mail 

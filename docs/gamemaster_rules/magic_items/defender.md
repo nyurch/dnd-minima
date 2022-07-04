@@ -1,4 +1,7 @@
+---
+layout: default
 name: Defender
+---
 type: weapon
 
 # Defender 

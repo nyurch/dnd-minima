@@ -1,4 +1,7 @@
+---
+layout: default
 name: Unicorn
+---
 type: celestial
 cr: 5
 

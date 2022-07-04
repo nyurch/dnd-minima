@@ -1,4 +1,7 @@
+---
+layout: default
 name: Clairvoyance
+---
 level: 3
 school: divination
 classes: bard

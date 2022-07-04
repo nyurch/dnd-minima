@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flesh Golem
+---
 type: construct
 cr: 5
 

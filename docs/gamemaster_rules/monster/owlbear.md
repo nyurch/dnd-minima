@@ -1,4 +1,7 @@
+---
+layout: default
 name: Owlbear
+---
 type: monstrosity
 cr: 3
 

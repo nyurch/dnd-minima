@@ -1,4 +1,7 @@
+---
+layout: default
 name: Black Tentacles
+---
 level: 4
 school: conjuration
 classes: wizard

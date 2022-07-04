@@ -1,4 +1,7 @@
+---
+layout: default
 name: Divine Word
+---
 level: 7
 school: evocation
 classes: cleric

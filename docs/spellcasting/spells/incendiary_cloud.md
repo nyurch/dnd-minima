@@ -1,4 +1,7 @@
+---
+layout: default
 name: Incendiary Cloud
+---
 level: 8
 school: conjuration
 classes: sorcerer

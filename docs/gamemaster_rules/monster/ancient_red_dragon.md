@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Red Dragon
+---
 type: dragon
 cr: 24
 

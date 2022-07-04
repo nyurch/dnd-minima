@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wall of Thorns
+---
 level: 6
 school: conjuration
 classes: druid

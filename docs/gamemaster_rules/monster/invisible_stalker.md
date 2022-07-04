@@ -1,4 +1,7 @@
+---
+layout: default
 name: Invisible Stalker
+---
 type: elemental
 cr: 6
 

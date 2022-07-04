@@ -1,4 +1,7 @@
+---
+layout: default
 name: Teleport
+---
 level: 7
 school: conjuration
 classes: bard

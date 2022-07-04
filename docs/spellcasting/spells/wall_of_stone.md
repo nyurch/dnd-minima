@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wall of Stone
+---
 level: 5
 school: evocation
 classes: druid

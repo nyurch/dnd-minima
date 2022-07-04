@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mislead
+---
 level: 5
 school: illusion
 classes: bard

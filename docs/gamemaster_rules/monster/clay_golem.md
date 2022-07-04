@@ -1,4 +1,7 @@
+---
+layout: default
 name: Clay Golem
+---
 type: construct
 cr: 9
 

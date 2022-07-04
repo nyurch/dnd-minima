@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Owl
+---
 type: beast
 cr: .25
 

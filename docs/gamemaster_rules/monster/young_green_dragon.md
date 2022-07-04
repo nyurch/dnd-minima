@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Green Dragon
+---
 type: dragon
 cr: 8
 

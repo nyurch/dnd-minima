@@ -1,4 +1,7 @@
+---
+layout: default
 name: Create Undead
+---
 level: 6
 school: necromancy
 classes: cleric

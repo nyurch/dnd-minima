@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hallucinatory Terrain
+---
 level: 4
 school: illusion
 classes: bard

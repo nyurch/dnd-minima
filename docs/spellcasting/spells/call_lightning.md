@@ -1,4 +1,7 @@
+---
+layout: default
 name: Call Lightning
+---
 level: 3
 school: conjuration
 classes: druid

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Brass Dragon
+---
 type: dragon
 cr: 20
 

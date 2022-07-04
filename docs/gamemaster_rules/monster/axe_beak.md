@@ -1,4 +1,7 @@
+---
+layout: default
 name: Axe Beak
+---
 type: beast
 cr: .25
 

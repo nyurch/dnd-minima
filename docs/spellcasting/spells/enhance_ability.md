@@ -1,4 +1,7 @@
+---
+layout: default
 name: Enhance Ability
+---
 level: 2
 school: transmutation
 classes: bard

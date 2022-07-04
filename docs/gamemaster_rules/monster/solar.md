@@ -1,4 +1,7 @@
+---
+layout: default
 name: Solar
+---
 cr: 21
 type: celestial
 

@@ -1,4 +1,7 @@
+---
+layout: default
 # Gamemaster Rules
+---
 ## General Gamemaster Rules
 
 * [Diseases](/gamemaster_rules/diseases/)

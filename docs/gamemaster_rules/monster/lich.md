@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lich
+---
 type: undead
 cr: 21
 

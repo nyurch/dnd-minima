@@ -1,4 +1,7 @@
+---
+layout: default
 name: Specter
+---
 type: undead
 cr: 1
 

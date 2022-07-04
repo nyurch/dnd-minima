@@ -1,4 +1,7 @@
+---
+layout: default
 name: Private Sanctum
+---
 level: 4
 school: abjuration
 classes: wizard

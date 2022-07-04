@@ -1,4 +1,7 @@
+---
+layout: default
 name: Manual of Bodily Health
+---
 type: item
 
 # Manual of Bodily Health 

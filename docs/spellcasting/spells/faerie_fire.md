@@ -1,4 +1,7 @@
+---
+layout: default
 name: Faerie Fire
+---
 level: 1
 school: evocation
 classes: bard

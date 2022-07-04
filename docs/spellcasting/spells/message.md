@@ -1,4 +1,7 @@
+---
+layout: default
 name: Message
+---
 level: 0
 school: transmutation
 classes: bard

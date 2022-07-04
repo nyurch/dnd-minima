@@ -1,4 +1,7 @@
+---
+layout: default
 name: Black Pudding
+---
 type: ooze
 cr: 4
 

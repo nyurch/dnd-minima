@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mending
+---
 level: 0
 school: transmutation
 classes: bard

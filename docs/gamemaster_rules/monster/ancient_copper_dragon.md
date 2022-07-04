@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient Copper Dragon
+---
 type: dragon
 cr: 21
 

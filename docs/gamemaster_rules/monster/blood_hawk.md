@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blood Hawk
+---
 type: beast
 cr: .125
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Protection from Evil and Good
+---
 level: 1
 school: abjuration
 classes: cleric

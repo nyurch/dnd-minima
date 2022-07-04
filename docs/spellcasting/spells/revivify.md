@@ -1,4 +1,7 @@
+---
+layout: default
 name: Revivify
+---
 level: 3
 school: necromancy
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Efreeti
+---
 type: elemental
 cr: 11
 

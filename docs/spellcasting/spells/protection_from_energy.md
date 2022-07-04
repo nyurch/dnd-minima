@@ -1,4 +1,7 @@
+---
+layout: default
 name: Protection from Energy
+---
 level: 3
 school: abjuration
 classes: cleric

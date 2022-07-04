@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blink
+---
 level: 3
 school: transmutation
 classes: sorcerer

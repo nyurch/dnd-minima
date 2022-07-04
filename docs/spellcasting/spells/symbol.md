@@ -1,4 +1,7 @@
+---
+layout: default
 name: Symbol
+---
 level: 7
 school: abjuration
 classes: bard

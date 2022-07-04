@@ -1,4 +1,7 @@
+---
+layout: default
 name: Druidcraft
+---
 level: 0
 school: transmutation
 classes: druid

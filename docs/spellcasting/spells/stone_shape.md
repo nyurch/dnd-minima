@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stone Shape
+---
 level: 4
 school: transmutation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Raven
+---
 type: beast
 cr: 0
 

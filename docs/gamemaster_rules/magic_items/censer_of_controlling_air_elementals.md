@@ -1,4 +1,7 @@
+---
+layout: default
 name: Censer of Controlling Air Elementals
+---
 type: item
 
 # Censer of Controlling Air Elementals 

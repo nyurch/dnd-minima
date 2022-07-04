@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magic Weapon
+---
 level: 2
 school: transmutation
 classes: paladin

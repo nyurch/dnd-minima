@@ -1,4 +1,7 @@
+---
+layout: default
 name: Glamoured Studded Leather
+---
 type: armor
 
 # Glamoured Studded Leather 

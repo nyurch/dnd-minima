@@ -1,4 +1,7 @@
+---
+layout: default
 name: Necklace of Prayer Beads
+---
 type: item
 
 # Necklace of Prayer Beads 

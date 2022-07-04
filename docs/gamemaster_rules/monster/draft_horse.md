@@ -1,4 +1,7 @@
+---
+layout: default
 name: Draft Horse
+---
 type: beast
 cr: .25
 

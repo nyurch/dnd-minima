@@ -1,4 +1,7 @@
+---
+layout: default
 name: Noble
+---
 type: humanoid (any race)
 cr: .125
 

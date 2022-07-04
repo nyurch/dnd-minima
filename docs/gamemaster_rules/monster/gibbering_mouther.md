@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gibbering Mouther
+---
 type: aberration
 cr: 2
 

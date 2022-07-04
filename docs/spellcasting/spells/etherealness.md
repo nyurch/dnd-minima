@@ -1,4 +1,7 @@
+---
+layout: default
 name: Etherealness
+---
 level: 7
 school: transmutation
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Octopus
+---
 type: beast
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Boots of the Winterlands
+---
 type: item
 
 # Boots of the Winterlands 

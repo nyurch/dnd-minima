@@ -1,4 +1,7 @@
+---
+layout: default
 # Spell Lists
+---
 
 * [Bard](/spellcasting/spell_lists/bard_spells/)      
 * [Cleric](/spellcasting/spell_lists/cleric_spells/)  

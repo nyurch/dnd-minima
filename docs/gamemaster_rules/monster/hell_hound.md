@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hell Hound
+---
 type: fiend
 cr: 3
 

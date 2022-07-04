@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Boar
+---
 type: beast
 cr: 2
 

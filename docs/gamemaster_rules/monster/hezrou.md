@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hezrou
+---
 type: fiend (demon)
 cr: 8
 

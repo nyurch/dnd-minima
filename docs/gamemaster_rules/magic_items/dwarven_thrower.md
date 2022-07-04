@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dwarven Thrower
+---
 type: weapon
 
 # Dwarven Thrower 

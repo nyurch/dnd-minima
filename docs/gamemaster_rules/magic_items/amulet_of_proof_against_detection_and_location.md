@@ -1,4 +1,7 @@
+---
+layout: default
 name: Amulet of Proof against Detection and Location
+---
 type: item
 
 # Amulet of Proof against Detection and Location 

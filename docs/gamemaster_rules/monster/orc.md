@@ -1,4 +1,7 @@
+---
+layout: default
 name: Orc
+---
 type: humanoid (orc)
 cr: .5
 

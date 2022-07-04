@@ -1,4 +1,7 @@
+---
+layout: default
 name: Periapt of Proof against Poison
+---
 type: item
 
 # Periapt of Proof against Poison 

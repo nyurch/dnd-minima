@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Silver Dragon
+---
 type: dragon
 cr: 9
 

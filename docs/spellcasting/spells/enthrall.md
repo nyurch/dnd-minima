@@ -1,4 +1,7 @@
+---
+layout: default
 name: Enthrall
+---
 level: 2
 school: enchantment
 classes: bard

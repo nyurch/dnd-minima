@@ -1,4 +1,7 @@
+---
+layout: default
 name: Prismatic Spray
+---
 level: 7
 school: evocation
 classes: sorcerer

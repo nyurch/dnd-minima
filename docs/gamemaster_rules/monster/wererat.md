@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wererat
+---
 type: humanoid (human, shapechanger)
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rope of Entanglement
+---
 type: item
 
 # Rope of Entanglement 

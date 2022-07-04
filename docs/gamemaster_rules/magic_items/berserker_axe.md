@@ -1,4 +1,7 @@
+---
+layout: default
 name: Berserker Axe
+---
 type: weapon
 
 # Berserker Axe 

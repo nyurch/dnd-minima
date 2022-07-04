@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Giant Strength
+---
 type: potion
 
 # Potion of Giant Strength 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sleet Storm
+---
 level: 3
 school: conjuration
 classes: druid

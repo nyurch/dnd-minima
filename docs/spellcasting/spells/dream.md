@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dream
+---
 level: 5
 school: illusion
 classes: bard

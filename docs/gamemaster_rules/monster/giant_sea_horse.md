@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Sea Horse
+---
 type: beast
 cr: .5
 

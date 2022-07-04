@@ -1,4 +1,7 @@
+---
+layout: default
 name: Restorative Ointment
+---
 type: item
 
 # Restorative Ointment 

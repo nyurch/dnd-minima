@@ -1,4 +1,7 @@
+---
+layout: default
 name: Comprehend Languages
+---
 level: 1
 school: divination
 classes: bard

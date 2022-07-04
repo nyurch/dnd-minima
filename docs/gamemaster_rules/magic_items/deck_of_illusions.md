@@ -1,4 +1,7 @@
+---
+layout: default
 name: Deck of Illusions
+---
 type: item
 
 # Deck of Illusions 

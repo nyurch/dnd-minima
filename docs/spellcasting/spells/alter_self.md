@@ -1,4 +1,7 @@
+---
+layout: default
 name: Alter Self
+---
 level: 2
 school: transmutation
 classes: sorcerer

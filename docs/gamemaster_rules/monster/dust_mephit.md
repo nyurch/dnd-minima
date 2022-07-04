@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dust Mephit
+---
 type: elemental
 cr: .5
 

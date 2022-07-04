@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mantle of Spell Resistance
+---
 type: item
 
 # Mantle of Spell Resistance 

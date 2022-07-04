@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hammer of Thunderbolts
+---
 type: weapon
 
 # Hammer of Thunderbolts 

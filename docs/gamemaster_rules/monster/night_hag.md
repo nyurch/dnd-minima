@@ -1,4 +1,7 @@
+---
+layout: default
 name: Night Hag
+---
 type: fiend
 cr: 5
 

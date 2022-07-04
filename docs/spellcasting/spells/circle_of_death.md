@@ -1,4 +1,7 @@
+---
+layout: default
 name: Circle of Death
+---
 level: 6
 school: necromancy
 classes: sorcerer

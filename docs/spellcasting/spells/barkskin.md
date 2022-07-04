@@ -1,4 +1,7 @@
+---
+layout: default
 name: Barkskin
+---
 level: 2
 school: transmutation
 classes: druid

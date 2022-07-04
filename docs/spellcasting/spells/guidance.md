@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guidance
+---
 level: 0
 school: divination
 classes: cleric

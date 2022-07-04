@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magic Jar
+---
 level: 6
 school: necromancy
 classes: wizard

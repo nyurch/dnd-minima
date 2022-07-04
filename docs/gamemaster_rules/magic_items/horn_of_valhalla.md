@@ -1,4 +1,7 @@
+---
+layout: default
 name: Horn of Valhalla
+---
 type: item
 
 # Horn of Valhalla 

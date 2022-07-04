@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animated Armor
+---
 type: construct
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Necklace of Fireballs
+---
 type: item
 
 # Necklace of Fireballs 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Copper Dragon
+---
 type: dragon
 cr: 14
 

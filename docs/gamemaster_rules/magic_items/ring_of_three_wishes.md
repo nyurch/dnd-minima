@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Three Wishes
+---
 type: ring
 
 # Ring of Three Wishes 

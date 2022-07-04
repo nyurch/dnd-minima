@@ -1,4 +1,7 @@
+---
+layout: default
 name: Illusory Script
+---
 level: 1
 school: illusion
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Elemental Gem
+---
 type: item
 
 # Elemental Gem 

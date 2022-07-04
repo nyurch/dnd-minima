@@ -1,4 +1,7 @@
+---
+layout: default
 name: Contact Other Plane
+---
 level: 5
 school: divination
 classes: warlock

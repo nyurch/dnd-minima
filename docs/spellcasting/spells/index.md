@@ -1,4 +1,7 @@
+---
+layout: default
 # Spells
+---
 
 * [Spells by Level](/spellcasting/spell_indexes/spells_by_level/)
 * [Spells by Name](/spellcasting/spell_indexes/spells_by_name/)

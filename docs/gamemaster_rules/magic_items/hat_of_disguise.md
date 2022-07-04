@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hat of Disguise
+---
 type: item
 
 # Hat of Disguise 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lightning Bolt
+---
 level: 3
 school: evocation
 classes: sorcerer

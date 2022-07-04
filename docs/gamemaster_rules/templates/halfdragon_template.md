@@ -1,4 +1,7 @@
+---
+layout: default
 # Half-Dragon Template
+---
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.    
 **Challenge**. To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.    

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arcane Lock
+---
 level: 2
 school: abjuration
 classes: wizard

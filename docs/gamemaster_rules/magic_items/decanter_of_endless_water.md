@@ -1,4 +1,7 @@
+---
+layout: default
 name: Decanter of Endless Water
+---
 type: item
 
 # Decanter of Endless Water 

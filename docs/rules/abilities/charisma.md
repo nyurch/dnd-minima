@@ -1,4 +1,7 @@
+---
+layout: default
 description: Information on the Charisma ability from the 5th Edition (5e) System Reference Document (SRD)
+---
 
 # Charisma 
 Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality. 

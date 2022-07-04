@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gauntlets of Ogre Power
+---
 type: item
 
 # Gauntlets of Ogre Power 

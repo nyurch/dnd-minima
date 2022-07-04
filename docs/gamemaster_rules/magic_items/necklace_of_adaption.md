@@ -1,4 +1,7 @@
+---
+layout: default
 name: Necklace of Adaption
+---
 type: item
 
 # Necklace of Adaptation 

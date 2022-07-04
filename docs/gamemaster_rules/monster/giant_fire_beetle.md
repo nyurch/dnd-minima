@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Fire Beetle
+---
 type: beast
 cr: 0
 

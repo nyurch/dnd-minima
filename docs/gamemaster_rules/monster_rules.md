@@ -1,4 +1,7 @@
+---
+layout: default
 description: General rules and descriptions for monsters from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # Monster Rules
 A monster's statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster. 

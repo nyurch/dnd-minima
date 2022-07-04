@@ -1,4 +1,7 @@
+---
+layout: default
 name: Kobold
+---
 type: humanoid (kobold)
 cr: .125
 

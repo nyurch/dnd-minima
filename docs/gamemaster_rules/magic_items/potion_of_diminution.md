@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Diminution
+---
 type: potion
 
 # Potion of Diminution 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shield
+---
 level: 1
 school: abjuration
 classes: sorcerer

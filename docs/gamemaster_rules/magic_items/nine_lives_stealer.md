@@ -1,4 +1,7 @@
+---
+layout: default
 name: Nine Lives Stealer
+---
 type: weapon
 
 # Nine Lives Stealer 

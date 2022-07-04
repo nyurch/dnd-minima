@@ -1,4 +1,7 @@
+---
+layout: default
 name: Veteran
+---
 type: humanoid (any race)
 cr: 3
 

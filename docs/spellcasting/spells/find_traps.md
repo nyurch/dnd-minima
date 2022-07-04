@@ -1,4 +1,7 @@
+---
+layout: default
 name: Find Traps
+---
 level: 2
 school: divination
 classes: cleric

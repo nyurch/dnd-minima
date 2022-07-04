@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rope of Climbing
+---
 type: item
 
 # Rope of Climbing 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Red Dragon
+---
 type: dragon
 cr: 17
 

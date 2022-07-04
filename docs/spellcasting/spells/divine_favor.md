@@ -1,4 +1,7 @@
+---
+layout: default
 name: Divine Favor
+---
 level: 1
 school: evocation
 classes: paladin

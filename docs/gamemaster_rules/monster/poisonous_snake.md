@@ -1,4 +1,7 @@
+---
+layout: default
 name: Poisonous Snake
+---
 type: beast
 cr: .125
 

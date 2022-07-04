@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stoneskin
+---
 level: 4
 school: abjuration
 classes: druid

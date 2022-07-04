@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ice Devil
+---
 type: fiend (devil)
 cr: 14
 

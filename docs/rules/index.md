@@ -1,4 +1,7 @@
+---
+layout: default
 # Rules
+---
 ## General Rules
 
 * [Advantage and Disadvantage](/rules/advantage_and_disadvantage/)

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rod of Alertness
+---
 type: rod
 
 # Rod of Alertness 

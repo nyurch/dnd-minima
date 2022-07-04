@@ -1,4 +1,7 @@
+---
+layout: default
 name: Darkness
+---
 level: 2
 school: evocation
 classes: sorcerer

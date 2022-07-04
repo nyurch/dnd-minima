@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lantern of Revealing
+---
 type: item
 
 # Lantern of Revealing 

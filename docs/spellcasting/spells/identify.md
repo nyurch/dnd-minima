@@ -1,4 +1,7 @@
+---
+layout: default
 name: Identify
+---
 level: 1
 school: divination
 classes: bard

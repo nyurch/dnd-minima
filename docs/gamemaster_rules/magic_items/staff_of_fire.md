@@ -1,4 +1,7 @@
+---
+layout: default
 name: Staff of Fire
+---
 type: staff
 
 # Staff of Fire 

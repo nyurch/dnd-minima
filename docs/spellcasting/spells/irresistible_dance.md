@@ -1,4 +1,7 @@
+---
+layout: default
 name: Irresistible Dance
+---
 level: 6
 school: enchantment
 classes: bard

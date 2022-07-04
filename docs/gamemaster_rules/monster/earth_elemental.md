@@ -1,4 +1,7 @@
+---
+layout: default
 name: Earth Elemental
+---
 type: elemental
 cr: 5
 

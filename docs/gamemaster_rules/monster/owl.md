@@ -1,4 +1,7 @@
+---
+layout: default
 name: Owl
+---
 type: beast
 cr: 0
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Brass Dragon
+---
 type: dragon
 cr: 6
 

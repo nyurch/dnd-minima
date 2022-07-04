@@ -1,4 +1,7 @@
+---
+layout: default
 name: Goodberry
+---
 level: 1
 school: transmutation
 classes: druid

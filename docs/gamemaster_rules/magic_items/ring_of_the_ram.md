@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of the Ram
+---
 type: ring
 
 # Ring of the Ram 

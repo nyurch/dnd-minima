@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gem of Brightness
+---
 type: item
 
 # Gem of Brightness 

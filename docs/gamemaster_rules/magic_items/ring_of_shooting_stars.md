@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Shooting Stars
+---
 type: ring
 
 # Ring of Shooting Stars 

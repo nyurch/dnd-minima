@@ -1,4 +1,7 @@
+---
+layout: default
 name: Alarm
+---
 level: 1
 school: abjuration
 classes: ranger

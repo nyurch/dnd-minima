@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fire Storm
+---
 level: 7
 school: evocation
 classes: cleric

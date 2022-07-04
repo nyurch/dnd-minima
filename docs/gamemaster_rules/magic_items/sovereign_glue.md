@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sovereign Glue
+---
 type: item
 
 # Sovereign Glue 

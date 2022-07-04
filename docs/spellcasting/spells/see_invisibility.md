@@ -1,4 +1,7 @@
+---
+layout: default
 name: See Invisibility
+---
 level: 2
 school: divination
 classes: bard

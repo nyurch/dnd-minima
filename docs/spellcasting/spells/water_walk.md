@@ -1,4 +1,7 @@
+---
+layout: default
 name: Water Walk
+---
 level: 3
 school: transmutation
 classes: cleric

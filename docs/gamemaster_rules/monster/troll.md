@@ -1,4 +1,7 @@
+---
+layout: default
 name: Troll
+---
 type: giant
 cr: 5
 

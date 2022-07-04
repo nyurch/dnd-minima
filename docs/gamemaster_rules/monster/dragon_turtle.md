@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dragon Turtle
+---
 type: dragon
 cr: 17
 

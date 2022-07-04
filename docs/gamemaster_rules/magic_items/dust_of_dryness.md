@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dust of Dryness
+---
 type: item
 
 # Dust of Dryness 

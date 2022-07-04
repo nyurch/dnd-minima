@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Bronze Dragon
+---
 type: dragon
 cr: 8
 

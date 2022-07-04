@@ -1,4 +1,7 @@
+---
+layout: default
 name: Minotaur
+---
 type: monstrosity
 cr: 3
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Faithful Hound
+---
 level: 4
 school: conjuration
 classes: wizard

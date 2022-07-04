@@ -1,4 +1,7 @@
+---
+layout: default
 name: Goat
+---
 type: beast
 cr: 0
 

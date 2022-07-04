@@ -1,4 +1,7 @@
+---
+layout: default
 name: Power Word Stun
+---
 level: 8
 school: enchantment
 classes: bard

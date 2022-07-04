@@ -1,4 +1,7 @@
+---
+layout: default
 name: Octopus
+---
 type: beast
 cr: 0
 

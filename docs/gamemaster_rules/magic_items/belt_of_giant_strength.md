@@ -1,4 +1,7 @@
+---
+layout: default
 name: Belt of Giant Strength
+---
 type: item
 
 # Belt of Giant Strength 

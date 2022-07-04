@@ -1,4 +1,7 @@
+---
+layout: default
 name: Silence
+---
 level: 2
 school: illusion
 classes: bard

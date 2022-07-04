@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sanctuary
+---
 level: 1
 school: abjuration
 classes: cleric

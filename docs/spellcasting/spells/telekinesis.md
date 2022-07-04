@@ -1,4 +1,7 @@
+---
+layout: default
 name: Telekinesis
+---
 level: 5
 school: transmutation
 classes: sorcerer

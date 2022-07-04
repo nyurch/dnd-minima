@@ -1,4 +1,7 @@
+---
+layout: default
 name: Floating Disk
+---
 level: 1
 school: conjuration
 classes: wizard

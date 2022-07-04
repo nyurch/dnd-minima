@@ -1,4 +1,7 @@
+---
+layout: default
 name: Roc
+---
 type: monstrosity
 cr: 11
 

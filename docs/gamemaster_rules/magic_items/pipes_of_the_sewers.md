@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pipes of the Sewers
+---
 type: item
 
 # Pipes of the Sewers 

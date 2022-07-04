@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hippogriff
+---
 type: monstrosity
 cr: 1
 

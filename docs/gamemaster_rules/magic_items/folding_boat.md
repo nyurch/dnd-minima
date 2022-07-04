@@ -1,4 +1,7 @@
+---
+layout: default
 name: Folding Boat
+---
 type: item
 
 # Folding Boat 

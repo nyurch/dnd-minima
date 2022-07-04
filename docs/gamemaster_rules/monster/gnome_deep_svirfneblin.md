@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gnome, Deep (Svirfneblin)
+---
 type: humanoid (gnome)
 cr: .5
 

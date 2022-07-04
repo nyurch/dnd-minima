@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animal Shapes
+---
 level: 8
 school: transmutation
 classes: druid

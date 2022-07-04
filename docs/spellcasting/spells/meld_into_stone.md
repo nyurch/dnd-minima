@@ -1,4 +1,7 @@
+---
+layout: default
 name: Meld into Stone
+---
 level: 3
 school: transmutation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of Arachnida
+---
 type: item
 
 # Cloak of Arachnida 

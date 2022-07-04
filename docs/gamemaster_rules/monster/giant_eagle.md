@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Eagle
+---
 type: beast
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Frost Giant
+---
 type: giant
 cr: 8
 

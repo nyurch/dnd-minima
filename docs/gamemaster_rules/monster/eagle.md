@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eagle
+---
 type: beast
 cr: 0
 

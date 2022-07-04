@@ -1,4 +1,7 @@
+---
+layout: default
 name: Djinni
+---
 type: elemental
 cr: 11
 

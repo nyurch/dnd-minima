@@ -1,4 +1,7 @@
+---
+layout: default
 name: Forcecage
+---
 level: 7
 school: evocation
 classes: bard

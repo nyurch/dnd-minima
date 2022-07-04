@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arrow-Catching Shield
+---
 type: armor
 
 # Arrow-Catching Shield 

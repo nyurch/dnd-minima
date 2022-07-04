@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of Protection
+---
 type: item
 
 # Cloak of Protection 

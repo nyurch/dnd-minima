@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arcane Eye
+---
 level: 4
 school: divination
 classes: wizard

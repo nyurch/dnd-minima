@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bronze Dragon Wyrmling
+---
 type: dragon
 cr: 2
 

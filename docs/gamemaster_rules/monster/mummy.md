@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mummy
+---
 type: undead
 cr: 3
 

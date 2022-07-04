@@ -1,4 +1,7 @@
+---
+layout: default
 name: Greater Invisibility
+---
 level: 4
 school: illusion
 classes: bard

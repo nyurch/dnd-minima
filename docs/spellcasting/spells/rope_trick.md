@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rope Trick
+---
 level: 2
 school: transmutation
 classes: wizard

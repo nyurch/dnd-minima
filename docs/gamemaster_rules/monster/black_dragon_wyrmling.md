@@ -1,4 +1,7 @@
+---
+layout: default
 name: Black Dragon Wyrmling
+---
 type: dragon
 cr: 2
 

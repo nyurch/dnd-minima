@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloudkill
+---
 level: 5
 school: conjuration
 classes: sorcerer

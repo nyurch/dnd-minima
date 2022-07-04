@@ -1,4 +1,7 @@
+---
+layout: default
 name: Conjure Fey
+---
 level: 6
 school: conjuration
 classes: druid

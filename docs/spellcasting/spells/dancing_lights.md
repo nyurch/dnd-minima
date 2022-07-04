@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dancing Lights
+---
 level: 0
 school: evocation
 classes: bard

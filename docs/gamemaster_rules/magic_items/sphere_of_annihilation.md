@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sphere of Annihilation
+---
 type: item
 
 # Sphere of Annihilation 

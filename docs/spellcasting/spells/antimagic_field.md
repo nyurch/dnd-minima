@@ -1,4 +1,7 @@
+---
+layout: default
 name: Antimagic Field
+---
 level: 8
 school: abjuration
 classes: cleric

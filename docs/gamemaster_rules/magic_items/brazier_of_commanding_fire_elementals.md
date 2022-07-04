@@ -1,4 +1,7 @@
+---
+layout: default
 name: Brazier of Commanding Fire Elementals
+---
 type: item
 
 # Brazier of Commanding Fire Elementals 

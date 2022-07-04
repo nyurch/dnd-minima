@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Crab
+---
 type: beast
 cr: .125
 

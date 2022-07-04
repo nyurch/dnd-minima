@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Ape
+---
 type: beast
 cr: 7
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Resistance
+---
 level: 0
 school: abjuration
 classes: cleric

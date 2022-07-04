@@ -1,4 +1,7 @@
+---
+layout: default
 name: Burning Hands
+---
 level: 1
 school: evocation
 classes: sorcerer

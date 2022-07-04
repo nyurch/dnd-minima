@@ -1,4 +1,7 @@
+---
+layout: default
 name: Locate Creature
+---
 level: 4
 school: divination
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guards and Wards
+---
 level: 6
 school: abjuration
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Helm of Comprehending Languages
+---
 type: item
 
 # Helm of Comprehending Languages 

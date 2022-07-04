@@ -1,4 +1,7 @@
+---
+layout: default
 name: Modify Memory
+---
 level: 5
 school: enchantment
 classes: bard

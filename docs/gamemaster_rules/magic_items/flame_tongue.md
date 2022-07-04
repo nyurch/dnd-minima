@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flame Tongue
+---
 type: weapon
 
 # Flame Tongue 

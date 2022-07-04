@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rhinoceros
+---
 type: beast
 cr: 2
 

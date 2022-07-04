@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pass without Trace
+---
 level: 2
 school: abjuration
 classes: druid

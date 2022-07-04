@@ -1,4 +1,7 @@
+---
+layout: default
 # Combat
+---
 
 * [Actions in Combat](/combat/actions_in_combat/)
 * [Cover](/combat/cover/)

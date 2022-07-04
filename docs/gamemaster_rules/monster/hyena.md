@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hyena
+---
 type: beast
 cr: 0
 

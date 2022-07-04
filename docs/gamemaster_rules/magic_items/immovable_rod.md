@@ -1,4 +1,7 @@
+---
+layout: default
 name: Immovable Rod
+---
 type: rod
 
 # Immovable Rod 

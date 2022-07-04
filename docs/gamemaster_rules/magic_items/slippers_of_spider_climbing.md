@@ -1,4 +1,7 @@
+---
+layout: default
 name: Slippers of Spider Climbing
+---
 type: item
 
 # Slippers of Spider Climbing 

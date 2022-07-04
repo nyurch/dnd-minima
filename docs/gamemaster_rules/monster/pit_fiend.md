@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pit Fiend
+---
 type: fiend (devil)
 cr: 20
 

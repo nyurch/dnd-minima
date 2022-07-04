@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flame Strike
+---
 level: 5
 school: evocation
 classes: cleric

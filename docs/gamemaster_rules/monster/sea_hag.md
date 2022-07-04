@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sea Hag
+---
 type: fey
 cr: 2
 

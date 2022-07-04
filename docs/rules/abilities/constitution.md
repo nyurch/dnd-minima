@@ -1,4 +1,7 @@
+---
+layout: default
 description: Information on the Constitution ability from the 5th Edition (5e) System Reference Document (SRD)
+---
 
 # Constitution 
 Constitution measures health, stamina, and vital force. 

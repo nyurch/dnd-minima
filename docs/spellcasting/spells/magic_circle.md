@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magic Circle
+---
 level: 3
 school: abjuration
 classes: cleric

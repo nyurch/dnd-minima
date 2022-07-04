@@ -1,4 +1,7 @@
+---
+layout: default
 name: Awakened Shrub
+---
 type: plant
 cr: 0
 

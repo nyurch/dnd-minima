@@ -1,4 +1,7 @@
+---
+layout: default
 name: Darkmantle
+---
 type: monstrosity
 cr: .5
 

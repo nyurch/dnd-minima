@@ -1,4 +1,7 @@
+---
+layout: default
 name: Finger of Death
+---
 level: 7
 school: necromancy
 classes: sorcerer

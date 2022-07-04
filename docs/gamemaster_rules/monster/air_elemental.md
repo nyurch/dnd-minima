@@ -1,4 +1,7 @@
+---
+layout: default
 name: Air Elemental
+---
 type: elemental
 cr: 5
 

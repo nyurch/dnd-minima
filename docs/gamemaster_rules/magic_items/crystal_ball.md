@@ -1,4 +1,7 @@
+---
+layout: default
 name: Crystal Ball
+---
 type: item
 
 # Crystal Ball 

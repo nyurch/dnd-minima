@@ -1,4 +1,7 @@
+---
+layout: default
 name: Warhorse Skeleton
+---
 type: undead
 cr: .5
 

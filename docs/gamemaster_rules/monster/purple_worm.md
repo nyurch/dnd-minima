@@ -1,4 +1,7 @@
+---
+layout: default
 name: Purple Worm
+---
 type: monstrosity
 cr: 15
 

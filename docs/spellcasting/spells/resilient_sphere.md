@@ -1,4 +1,7 @@
+---
+layout: default
 name: Resilient Sphere
+---
 level: 4
 school: evocation
 classes: wizard

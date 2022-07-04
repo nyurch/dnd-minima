@@ -1,4 +1,7 @@
+---
+layout: default
 name: Green Dragon Wyrmling
+---
 type: dragon
 cr: 2
 

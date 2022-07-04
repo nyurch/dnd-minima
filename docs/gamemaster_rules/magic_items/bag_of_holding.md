@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bag of Holding
+---
 type: item
 
 # Bag of Holding 

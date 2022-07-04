@@ -1,4 +1,7 @@
+---
+layout: default
 name: Forbiddance
+---
 level: 6
 school: abjuration
 classes: cleric

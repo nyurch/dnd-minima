@@ -1,4 +1,7 @@
+---
+layout: default
 name: Foresight
+---
 level: 9
 school: divination
 classes: bard

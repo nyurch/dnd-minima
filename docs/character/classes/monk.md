@@ -1,4 +1,7 @@
+---
+layout: default
 description: Rules and information for the Monk class from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # The Monk
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                             | 

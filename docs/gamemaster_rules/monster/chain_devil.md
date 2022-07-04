@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chain Devil
+---
 type: fiend (devil)
 cr: 8
 

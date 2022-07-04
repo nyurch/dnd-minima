@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Gold Dragon
+---
 type: dragon
 cr: 10
 

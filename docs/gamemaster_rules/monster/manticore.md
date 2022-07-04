@@ -1,4 +1,7 @@
+---
+layout: default
 name: Manticore
+---
 type: monstrosity
 cr: 3
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magic Missile
+---
 level: 1
 school: evocation
 classes: sorcerer

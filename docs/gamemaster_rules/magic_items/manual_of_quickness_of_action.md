@@ -1,4 +1,7 @@
+---
+layout: default
 name: Manual of Quickness of Action
+---
 type: item
 
 # Manual of Quickness of Action 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Magmin
+---
 type: elemental
 cr: .5
 

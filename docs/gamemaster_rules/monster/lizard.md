@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lizard
+---
 type: beast
 cr: 0
 

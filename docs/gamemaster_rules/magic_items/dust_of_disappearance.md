@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dust of Disappearance
+---
 type: item
 
 # Dust of Disappearance 

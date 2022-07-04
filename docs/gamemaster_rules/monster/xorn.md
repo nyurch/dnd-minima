@@ -1,4 +1,7 @@
+---
+layout: default
 name: Xorn
+---
 type: elemental
 cr: 5
 

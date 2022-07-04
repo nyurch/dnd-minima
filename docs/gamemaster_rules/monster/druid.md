@@ -1,4 +1,7 @@
+---
+layout: default
 name: Druid
+---
 type: humanoid (any race)
 cr: 2
 

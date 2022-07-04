@@ -1,4 +1,7 @@
+---
+layout: default
 name: Insect Plague
+---
 level: 5
 school: conjuration
 classes: cleric

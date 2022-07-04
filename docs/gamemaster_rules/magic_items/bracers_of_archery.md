@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bracers of Archery
+---
 type: item
 
 # Bracers of Archery 

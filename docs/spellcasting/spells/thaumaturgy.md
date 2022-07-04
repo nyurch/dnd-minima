@@ -1,4 +1,7 @@
+---
+layout: default
 name: Thaumaturgy
+---
 level: 0
 school: transmutation
 classes: cleric

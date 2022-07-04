@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rakshasa
+---
 type: fiend
 cr: 13
 

@@ -1,4 +1,7 @@
+---
+layout: default
 # Races
+---
 
 * [Dragonborn](/character/races/dragonborn/)
 * [Dwarf](/character/races/dwarf/)

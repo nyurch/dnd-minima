@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mirror Image
+---
 level: 2
 school: illusion
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shield Guardian
+---
 type: construct
 cr: 7
 

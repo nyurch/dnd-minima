@@ -1,4 +1,7 @@
+---
+layout: default
 name: Roper
+---
 type: monstrosity
 cr: 5
 

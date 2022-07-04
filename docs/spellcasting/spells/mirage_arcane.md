@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mirage Arcane
+---
 level: 7
 school: illusion
 classes: bard

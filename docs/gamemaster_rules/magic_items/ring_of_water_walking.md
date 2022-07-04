@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Water Walking
+---
 type: ring
 
 # Ring of Water Walking 

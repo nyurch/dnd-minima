@@ -1,4 +1,7 @@
+---
+layout: default
 name: Staff of Frost
+---
 type: staff
 
 # Staff of Frost 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Create or Destroy Water
+---
 level: 1
 school: transmutation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: False Life
+---
 level: 1
 school: necromancy
 classes: sorcerer

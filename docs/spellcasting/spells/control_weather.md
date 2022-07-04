@@ -1,4 +1,7 @@
+---
+layout: default
 name: Control Weather
+---
 level: 8
 school: transmutation
 classes: cleric

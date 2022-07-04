@@ -1,4 +1,7 @@
+---
+layout: default
 name: Conjure Woodland Beings
+---
 level: 4
 school: conjuration
 classes: druid

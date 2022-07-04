@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bag of Devouring
+---
 type: item
 
 # Bag of Devouring 

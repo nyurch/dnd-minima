@@ -1,4 +1,7 @@
+---
+layout: default
 name: Programmed Illusion
+---
 level: 6
 school: illusion
 classes: bard

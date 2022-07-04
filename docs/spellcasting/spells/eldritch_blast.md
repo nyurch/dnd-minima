@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eldritch Blast
+---
 level: 0
 school: evocation
 classes: warlock

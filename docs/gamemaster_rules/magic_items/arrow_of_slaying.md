@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arrow of Slaying
+---
 type: weapon
 
 # Arrow of Slaying 

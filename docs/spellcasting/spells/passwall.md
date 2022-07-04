@@ -1,4 +1,7 @@
+---
+layout: default
 name: Passwall
+---
 level: 5
 school: transmutation
 classes: wizard

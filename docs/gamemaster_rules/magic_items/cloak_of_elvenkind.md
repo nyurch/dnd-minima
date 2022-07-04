@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloak of Elvenkind
+---
 type: item
 
 # Cloak of Elvenkind 

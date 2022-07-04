@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guiding Bolt
+---
 level: 1
 school: evocation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tree Stride
+---
 level: 5
 school: conjuration
 classes: druid

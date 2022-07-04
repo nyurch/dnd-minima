@@ -1,4 +1,7 @@
+---
+layout: default
 name: Arcane Hand
+---
 level: 5
 school: evocation
 classes: wizard

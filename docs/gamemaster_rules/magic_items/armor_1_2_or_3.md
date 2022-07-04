@@ -1,4 +1,7 @@
+---
+layout: default
 name: Armor, +1, +2, or +3
+---
 type: armor
 
 # Armor, +1, +2, or +3 

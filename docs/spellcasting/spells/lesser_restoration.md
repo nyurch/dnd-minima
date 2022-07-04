@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lesser Restoration
+---
 level: 2
 school: abjuration
 classes: bard

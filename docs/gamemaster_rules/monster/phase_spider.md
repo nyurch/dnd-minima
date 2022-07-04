@@ -1,4 +1,7 @@
+---
+layout: default
 name: Phase Spider
+---
 type: monstrosity
 cr: 3
 

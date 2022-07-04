@@ -1,4 +1,7 @@
+---
+layout: default
 name: Commune
+---
 level: 5
 school: divination
 classes: cleric

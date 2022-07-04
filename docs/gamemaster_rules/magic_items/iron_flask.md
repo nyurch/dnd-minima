@@ -1,4 +1,7 @@
+---
+layout: default
 name: Iron Flask
+---
 type: item
 
 # Iron Flask 

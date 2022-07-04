@@ -1,4 +1,7 @@
+---
+layout: default
 name: Antipathy/Sympathy
+---
 level: 8
 school: enchantment
 classes: druid

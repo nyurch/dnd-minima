@@ -1,4 +1,7 @@
+---
+layout: default
 name: Green Hag
+---
 type: fey
 cr: 3
 

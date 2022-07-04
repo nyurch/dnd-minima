@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gelatinous Cube
+---
 type: ooze
 cr: 2
 

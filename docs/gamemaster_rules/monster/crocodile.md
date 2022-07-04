@@ -1,4 +1,7 @@
+---
+layout: default
 name: Crocodile
+---
 type: beast
 cr: .5
 

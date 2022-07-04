@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Constrictor Snake
+---
 type: beast
 cr: 2
 

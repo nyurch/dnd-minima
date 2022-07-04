@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hobgoblin
+---
 type: humanoid (goblinoid)
 cr: .5
 

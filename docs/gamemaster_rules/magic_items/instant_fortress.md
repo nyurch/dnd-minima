@@ -1,4 +1,7 @@
+---
+layout: default
 name: Instant Fortress
+---
 type: item
 
 # Instant Fortress 

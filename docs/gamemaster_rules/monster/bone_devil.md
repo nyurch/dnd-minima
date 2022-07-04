@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bone Devil
+---
 type: fiend (devil)
 cr: 9
 

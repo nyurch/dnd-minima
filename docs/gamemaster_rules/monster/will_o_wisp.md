@@ -1,4 +1,7 @@
+---
+layout: default
 name: Will-o'-Wisp
+---
 type: undead
 cr: 2
 

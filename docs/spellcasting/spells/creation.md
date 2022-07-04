@@ -1,4 +1,7 @@
+---
+layout: default
 name: Creation
+---
 level: 5
 school: illusion
 classes: sorcerer

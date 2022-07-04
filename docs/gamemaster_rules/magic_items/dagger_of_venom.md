@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dagger of Venom
+---
 type: weapon
 
 # Dagger of Venom 

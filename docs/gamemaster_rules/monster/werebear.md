@@ -1,4 +1,7 @@
+---
+layout: default
 name: Werebear
+---
 type: humanoid (human, shapechanger)
 cr: 5
 

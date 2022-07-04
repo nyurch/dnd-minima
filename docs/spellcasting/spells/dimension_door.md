@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dimension Door
+---
 level: 4
 school: conjuration
 classes: bard

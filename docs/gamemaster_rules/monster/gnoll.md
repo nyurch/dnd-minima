@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gnoll
+---
 type: humanoid (gnoll)
 cr: .5
 

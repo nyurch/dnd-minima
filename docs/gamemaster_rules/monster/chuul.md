@@ -1,4 +1,7 @@
+---
+layout: default
 name: Chuul
+---
 type: aberration
 cr: 4
 

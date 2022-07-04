@@ -1,4 +1,7 @@
+---
+layout: default
 name: Demon Armor
+---
 type: armor
 
 # Demon Armor 

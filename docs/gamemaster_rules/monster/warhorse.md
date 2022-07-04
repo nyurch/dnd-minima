@@ -1,4 +1,7 @@
+---
+layout: default
 name: Warhorse
+---
 type: beast
 cr: .5
 

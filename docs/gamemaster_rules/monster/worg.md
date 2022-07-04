@@ -1,4 +1,7 @@
+---
+layout: default
 name: Worg
+---
 type: monstrosity
 cr: .5
 

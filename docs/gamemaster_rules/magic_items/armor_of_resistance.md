@@ -1,4 +1,7 @@
+---
+layout: default
 name: Armor of Resistance
+---
 type: armor
 
 # Armor of Resistance 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ancient White Dragon
+---
 type: dragon
 cr: 20
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Feeblemind
+---
 level: 8
 school: enchantment
 classes: bard

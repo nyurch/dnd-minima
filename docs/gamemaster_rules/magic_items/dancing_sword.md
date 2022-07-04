@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dancing Sword
+---
 type: weapon
 
 # Dancing Sword 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Astral Projection
+---
 level: 9
 school: necromancy
 classes: cleric

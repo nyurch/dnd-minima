@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wyvern
+---
 type: dragon
 cr: 6
 

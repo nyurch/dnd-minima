@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Heroism
+---
 type: potion
 
 # Potion of Heroism 

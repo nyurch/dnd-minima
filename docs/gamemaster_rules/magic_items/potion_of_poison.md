@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Poison
+---
 type: potion
 
 # Potion of Poison 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Frog
+---
 type: beast
 cr: .25
 

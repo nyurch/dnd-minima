@@ -1,4 +1,7 @@
+---
+layout: default
 name: Satyr
+---
 type: fey
 cr: .5
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Gold Dragon
+---
 type: dragon
 cr: 17
 

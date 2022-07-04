@@ -1,4 +1,7 @@
+---
+layout: default
 # Character
+---
 
 ## General Character
 * [Alignment](/character/alignment/)

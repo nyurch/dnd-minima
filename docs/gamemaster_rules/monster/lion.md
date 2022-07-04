@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lion
+---
 type: beast
 cr: 1
 

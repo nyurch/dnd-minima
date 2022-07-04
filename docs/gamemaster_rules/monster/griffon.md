@@ -1,4 +1,7 @@
+---
+layout: default
 name: Griffon
+---
 type: monstrosity
 cr: 2
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Crocodile
+---
 type: beast
 cr: 5
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cloud Giant
+---
 type: giant
 cr: 9
 

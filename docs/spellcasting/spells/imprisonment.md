@@ -1,4 +1,7 @@
+---
+layout: default
 name: Imprisonment
+---
 level: 9
 school: abjuration
 classes: warlock

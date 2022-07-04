@@ -1,4 +1,7 @@
+---
+layout: default
 name: Iron Golem
+---
 type: construct
 cr: 16
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Elf, Drow
+---
 type: humanoid (elf)
 cr: .25
 

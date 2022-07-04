@@ -1,4 +1,7 @@
+---
+layout: default
 name: Demiplane
+---
 level: 8
 school: conjuration
 classes: warlock

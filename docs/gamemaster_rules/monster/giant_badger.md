@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Badger
+---
 type: beast
 cr: .25
 

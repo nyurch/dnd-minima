@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wind Walk
+---
 level: 6
 school: transmutation
 classes: druid

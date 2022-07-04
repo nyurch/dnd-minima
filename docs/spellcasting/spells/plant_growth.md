@@ -1,4 +1,7 @@
+---
+layout: default
 name: Plant Growth
+---
 level: 3
 school: transmutation
 classes: bard

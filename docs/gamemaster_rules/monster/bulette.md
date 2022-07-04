@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bulette
+---
 type: monstrosity
 cr: 5
 

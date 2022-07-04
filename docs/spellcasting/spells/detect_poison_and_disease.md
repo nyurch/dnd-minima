@@ -1,4 +1,7 @@
+---
+layout: default
 name: Detect Poison and Disease
+---
 level: 1
 school: divination
 classes: cleric

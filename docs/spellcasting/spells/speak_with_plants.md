@@ -1,4 +1,7 @@
+---
+layout: default
 name: Speak with Plants
+---
 level: 3
 school: transmutation
 classes: bard

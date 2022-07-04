@@ -1,4 +1,7 @@
+---
+layout: default
 name: Slow
+---
 level: 3
 school: transmutation
 classes: sorcerer

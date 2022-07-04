@@ -1,4 +1,7 @@
+---
+layout: default
 name: Priest
+---
 type: humanoid (any race)
 cr: 2
 

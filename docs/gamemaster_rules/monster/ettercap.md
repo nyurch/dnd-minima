@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ettercap
+---
 type: monstrosity
 cr: 2
 

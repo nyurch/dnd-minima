@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Blue Dragon
+---
 type: dragon
 cr: 9
 

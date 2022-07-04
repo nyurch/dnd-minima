@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ray of Enfeeblement
+---
 level: 2
 school: necromancy
 classes: warlock

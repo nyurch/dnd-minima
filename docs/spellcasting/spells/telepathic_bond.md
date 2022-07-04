@@ -1,4 +1,7 @@
+---
+layout: default
 name: Telepathic Bond
+---
 level: 5
 school: divination
 classes: wizard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Assassin
+---
 type: humanoid (any race)
 cr: 8
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Divination
+---
 level: 4
 school: divination
 classes: cleric

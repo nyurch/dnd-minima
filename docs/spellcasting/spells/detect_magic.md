@@ -1,4 +1,7 @@
+---
+layout: default
 name: Detect Magic
+---
 level: 1
 school: divination
 classes: bard

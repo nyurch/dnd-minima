@@ -1,4 +1,7 @@
+---
+layout: default
 # Equipment
+---
 
 * [Adventuring Gear](/adventuring/equipment/adventuring_gear/)      
 * [Armor](/adventuring/equipment/armor/)                            

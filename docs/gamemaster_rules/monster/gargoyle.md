@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gargoyle
+---
 type: elemental
 cr: 2
 

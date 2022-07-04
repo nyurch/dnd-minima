@@ -1,4 +1,7 @@
+---
+layout: default
 name: Calm Emotions
+---
 level: 2
 school: enchantment
 classes: bard

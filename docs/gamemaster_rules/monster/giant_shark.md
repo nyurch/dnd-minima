@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Shark
+---
 type: beast
 cr: 5
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gaseous Form
+---
 level: 3
 school: transmutation
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Plane Shift
+---
 level: 7
 school: conjuration
 classes: cleric

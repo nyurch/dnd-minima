@@ -1,4 +1,7 @@
+---
+layout: default
 name: Acid Arrow
+---
 level: 2
 school: evocation
 classes: wizard

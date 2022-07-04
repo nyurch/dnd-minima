@@ -1,4 +1,7 @@
+---
+layout: default
 name: White Dragon Wyrmling
+---
 type: dragon
 cr: 2
 

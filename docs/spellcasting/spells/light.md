@@ -1,4 +1,7 @@
+---
+layout: default
 name: Light
+---
 level: 0
 school: evocation
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Marvelous Pigments
+---
 type: item
 
 # Marvelous Pigments 

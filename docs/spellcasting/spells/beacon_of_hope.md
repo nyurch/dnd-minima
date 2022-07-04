@@ -1,4 +1,7 @@
+---
+layout: default
 name: Beacon of Hope
+---
 level: 3
 school: abjuration
 classes: cleric

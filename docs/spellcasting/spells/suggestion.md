@@ -1,4 +1,7 @@
+---
+layout: default
 name: Suggestion
+---
 level: 2
 school: enchantment
 classes: bard

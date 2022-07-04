@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fire Shield
+---
 level: 4
 school: evocation
 classes: wizard

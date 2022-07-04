@@ -1,4 +1,7 @@
+---
+layout: default
 name: Deer
+---
 type: beast
 cr: 0
 

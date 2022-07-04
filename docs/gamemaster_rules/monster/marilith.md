@@ -1,4 +1,7 @@
+---
+layout: default
 name: Marilith
+---
 type: fiend (demon)
 cr: 16
 

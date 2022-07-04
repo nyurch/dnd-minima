@@ -1,4 +1,7 @@
+---
+layout: default
 name: Seeming
+---
 level: 5
 school: illusion
 classes: bard

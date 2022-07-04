@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pegasus
+---
 type: celestial
 cr: 2
 

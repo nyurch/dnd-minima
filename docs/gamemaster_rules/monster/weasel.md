@@ -1,4 +1,7 @@
+---
+layout: default
 name: Weasel
+---
 type: beast
 cr: 0
 

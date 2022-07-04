@@ -1,4 +1,7 @@
+---
+layout: default
 name: Greater Restoration
+---
 level: 5
 school: abjuration
 classes: bard

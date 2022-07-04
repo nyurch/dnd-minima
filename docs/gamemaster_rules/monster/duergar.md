@@ -1,4 +1,7 @@
+---
+layout: default
 name: Duergar
+---
 type: humanoid (dwarf)
 cr: 1
 

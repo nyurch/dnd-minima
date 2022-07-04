@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bracers of Defense
+---
 type: item
 
 # Bracers of Defense 

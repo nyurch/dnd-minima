@@ -1,4 +1,7 @@
+---
+layout: default
 name: Basilisk
+---
 type: monstrosity
 cr: 3
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Phantasmal Killer
+---
 level: 4
 school: illusion
 classes: wizard

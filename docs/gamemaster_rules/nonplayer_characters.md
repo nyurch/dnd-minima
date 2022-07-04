@@ -1,4 +1,7 @@
+---
+layout: default
 description: Rules about nonplayer characters from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # Nonplayer Characters 
 ## Customizing NPCs 

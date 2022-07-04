@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wall of Force
+---
 level: 5
 school: evocation
 classes: wizard

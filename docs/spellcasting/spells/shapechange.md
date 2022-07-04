@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shapechange
+---
 level: 9
 school: transmutation
 classes: druid

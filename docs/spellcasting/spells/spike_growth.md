@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spike Growth
+---
 level: 2
 school: transmutation
 classes: druid

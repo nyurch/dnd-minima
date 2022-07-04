@@ -1,4 +1,7 @@
+---
+layout: default
 name: Winter Wolf
+---
 type: monstrosity
 cr: 3
 

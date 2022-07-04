@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shrieker
+---
 type: plant
 cr: 0
 

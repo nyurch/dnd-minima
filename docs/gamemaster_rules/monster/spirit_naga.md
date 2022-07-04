@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spirit Naga
+---
 type: monstrosity
 cr: 8
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dryad
+---
 type: fey
 cr: 1
 

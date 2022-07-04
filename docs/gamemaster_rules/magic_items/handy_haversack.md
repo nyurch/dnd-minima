@@ -1,4 +1,7 @@
+---
+layout: default
 name: Handy Haversack
+---
 type: item
 
 # Handy Haversack 

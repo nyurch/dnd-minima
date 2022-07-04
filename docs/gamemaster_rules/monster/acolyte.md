@@ -1,4 +1,7 @@
+---
+layout: default
 name: Acolyte
+---
 type: humanoid (any race)
 cr: .25
 

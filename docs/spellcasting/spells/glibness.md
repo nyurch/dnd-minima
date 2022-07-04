@@ -1,4 +1,7 @@
+---
+layout: default
 name: Glibness
+---
 level: 8
 school: transmutation
 classes: bard

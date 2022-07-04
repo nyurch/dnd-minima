@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gold Dragon Wyrmling
+---
 type: dragon
 cr: 3
 

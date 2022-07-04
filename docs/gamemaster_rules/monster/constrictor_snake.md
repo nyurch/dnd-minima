@@ -1,4 +1,7 @@
+---
+layout: default
 name: Constrictor Snake
+---
 type: beast
 cr: .25
 

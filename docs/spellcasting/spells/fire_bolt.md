@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fire Bolt
+---
 level: 0
 school: evocation
 classes: sorcerer

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Counterspell
+---
 level: 3
 school: abjuration
 classes: sorcerer

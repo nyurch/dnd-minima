@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ogre
+---
 type: giant
 cr: 2
 

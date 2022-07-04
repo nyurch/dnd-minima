@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ettin
+---
 type: giant
 cr: 4
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Broom of Flying
+---
 type: item
 
 # Broom of Flying 

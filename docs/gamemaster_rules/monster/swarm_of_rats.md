@@ -1,4 +1,7 @@
+---
+layout: default
 name: Swarm of Rats
+---
 type: swarm of Tiny beasts
 cr: .25
 

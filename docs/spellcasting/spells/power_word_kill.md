@@ -1,4 +1,7 @@
+---
+layout: default
 name: Power Word Kill
+---
 level: 9
 school: enchantment
 classes: bard

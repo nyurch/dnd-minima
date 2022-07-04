@@ -1,4 +1,7 @@
+---
+layout: default
 name: Behir
+---
 type: monstrosity
 cr: 11
 

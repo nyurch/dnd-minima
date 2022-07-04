@@ -1,4 +1,7 @@
+---
+layout: default
 name: Vicious Mockery
+---
 level: 0
 school: enchantment
 classes: bard

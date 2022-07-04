@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bead of Force
+---
 type: item
 
 # Bead of Force 

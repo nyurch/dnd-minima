@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sending
+---
 level: 3
 school: evocation
 classes: bard

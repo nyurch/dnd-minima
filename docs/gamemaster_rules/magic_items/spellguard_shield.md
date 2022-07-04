@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spellguard Shield
+---
 type: armor
 
 # Spellguard Shield 

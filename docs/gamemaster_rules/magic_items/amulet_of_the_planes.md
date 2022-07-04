@@ -1,4 +1,7 @@
+---
+layout: default
 name: Amulet of the Planes
+---
 type: item
 
 # Amulet of the Planes 

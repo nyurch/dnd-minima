@@ -1,4 +1,7 @@
+---
+layout: default
 name: Minor Illusion
+---
 level: 0
 school: illusion
 classes: bard

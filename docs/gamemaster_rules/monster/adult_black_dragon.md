@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Black Dragon
+---
 type: dragon
 cr: 14
 

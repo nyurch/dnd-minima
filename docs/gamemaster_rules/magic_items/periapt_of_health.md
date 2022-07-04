@@ -1,4 +1,7 @@
+---
+layout: default
 name: Periapt of Health
+---
 type: item
 
 # Periapt of Health 

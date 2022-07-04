@@ -1,4 +1,7 @@
+---
+layout: default
 name: Weretiger
+---
 type: humanoid (human, shapechanger)
 cr: 4
 

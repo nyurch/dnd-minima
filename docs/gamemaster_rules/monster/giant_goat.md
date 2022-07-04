@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Goat
+---
 type: beast
 cr: .5
 

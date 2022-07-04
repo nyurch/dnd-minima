@@ -1,4 +1,7 @@
+---
+layout: default
 name: Charm Person
+---
 level: 1
 school: enchantment
 classes: bard

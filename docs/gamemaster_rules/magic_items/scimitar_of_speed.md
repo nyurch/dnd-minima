@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scimitar of Speed
+---
 type: weapon
 
 # Scimitar of Speed 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Commune with Nature
+---
 level: 5
 school: divination
 classes: druid

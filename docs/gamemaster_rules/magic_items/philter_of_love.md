@@ -1,4 +1,7 @@
+---
+layout: default
 name: Philter of Love
+---
 type: potion
 
 # Philter of Love 

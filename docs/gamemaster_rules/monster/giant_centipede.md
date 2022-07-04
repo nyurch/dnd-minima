@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Centipede
+---
 type: beast
 cr: .25
 

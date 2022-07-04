@@ -1,4 +1,7 @@
+---
+layout: default
 name: Freedom of Movement
+---
 level: 4
 school: abjuration
 classes: bard

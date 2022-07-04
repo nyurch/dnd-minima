@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ape
+---
 type: beast
 cr: .5
 

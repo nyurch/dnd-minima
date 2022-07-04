@@ -1,4 +1,7 @@
+---
+layout: default
 name: Werewolf
+---
 type: humanoid (human, shapechanger)
 cr: 3
 

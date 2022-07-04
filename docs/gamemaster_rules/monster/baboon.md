@@ -1,4 +1,7 @@
+---
+layout: default
 name: Baboon
+---
 type: beast
 cr: 0
 

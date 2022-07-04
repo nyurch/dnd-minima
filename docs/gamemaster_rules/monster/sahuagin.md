@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sahuagin
+---
 type: humanoid (sahuagin)
 cr: .5
 

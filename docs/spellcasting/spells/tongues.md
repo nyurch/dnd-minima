@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tongues
+---
 level: 3
 school: divination
 classes: bard

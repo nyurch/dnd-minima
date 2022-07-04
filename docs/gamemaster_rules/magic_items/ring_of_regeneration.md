@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Regeneration
+---
 type: ring
 
 # Ring of Regeneration 

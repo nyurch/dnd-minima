@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mace of Smiting
+---
 type: weapon
 
 # Mace of Smiting 

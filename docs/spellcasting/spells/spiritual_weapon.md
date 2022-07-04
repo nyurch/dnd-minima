@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spiritual Weapon
+---
 level: 2
 school: evocation
 classes: cleric

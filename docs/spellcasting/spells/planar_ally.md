@@ -1,4 +1,7 @@
+---
+layout: default
 name: Planar Ally
+---
 level: 6
 school: conjuration
 classes: cleric

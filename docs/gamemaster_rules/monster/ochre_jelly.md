@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ochre Jelly
+---
 type: ooze
 cr: 2
 

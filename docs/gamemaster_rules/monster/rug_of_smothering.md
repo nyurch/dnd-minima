@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rug of Smothering
+---
 type: construct
 cr: 2
 

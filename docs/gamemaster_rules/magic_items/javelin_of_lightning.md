@@ -1,4 +1,7 @@
+---
+layout: default
 name: Javelin of Lightning
+---
 type: weapon
 
 # Javelin of Lightning 

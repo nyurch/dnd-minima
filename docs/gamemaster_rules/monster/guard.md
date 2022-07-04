@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guard
+---
 type: humanoid (any race)
 cr: .125
 

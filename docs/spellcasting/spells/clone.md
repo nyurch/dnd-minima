@@ -1,4 +1,7 @@
+---
+layout: default
 name: Clone
+---
 level: 8
 school: necromancy
 classes: wizard

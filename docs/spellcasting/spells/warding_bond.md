@@ -1,4 +1,7 @@
+---
+layout: default
 name: Warding Bond
+---
 level: 2
 school: abjuration
 classes: cleric

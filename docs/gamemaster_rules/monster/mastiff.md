@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mastiff
+---
 type: beast
 cr: .125
 

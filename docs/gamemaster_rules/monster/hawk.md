@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hawk
+---
 type: beast
 cr: 0
 

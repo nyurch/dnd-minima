@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sunburst
+---
 level: 8
 school: evocation
 classes: druid

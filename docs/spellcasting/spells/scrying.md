@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scrying
+---
 level: 5
 school: divination
 classes: bard

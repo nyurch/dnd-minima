@@ -1,4 +1,7 @@
+---
+layout: default
 name: Homunculus
+---
 type: construct
 cr: 0
 

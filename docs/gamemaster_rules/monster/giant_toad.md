@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Toad
+---
 type: beast
 cr: 1
 

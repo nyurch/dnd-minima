@@ -1,4 +1,7 @@
+---
+layout: default
 name: Iron Bands of Binding
+---
 type: item
 
 # Iron Bands of Binding 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Periapt of Wound Closure
+---
 type: item
 
 # Periapt of Wound Closure 

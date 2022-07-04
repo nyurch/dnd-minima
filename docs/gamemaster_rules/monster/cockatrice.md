@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cockatrice
+---
 type: monstrosity
 cr: .5
 

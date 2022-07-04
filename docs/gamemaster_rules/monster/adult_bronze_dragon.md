@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Bronze Dragon
+---
 type: dragon
 cr: 15
 

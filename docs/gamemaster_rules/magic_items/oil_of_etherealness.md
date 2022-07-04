@@ -1,4 +1,7 @@
+---
+layout: default
 name: Oil of Etherealness
+---
 type: potion
 
 # Oil of Etherealness 

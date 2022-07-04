@@ -1,4 +1,7 @@
+---
+layout: default
 name: Commoner
+---
 type: humanoid (any race)
 cr: 0
 

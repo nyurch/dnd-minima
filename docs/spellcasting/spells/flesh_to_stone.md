@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flesh to Stone
+---
 level: 6
 school: transmutation
 classes: warlock

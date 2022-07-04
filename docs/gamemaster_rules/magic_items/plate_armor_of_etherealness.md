@@ -1,4 +1,7 @@
+---
+layout: default
 name: Plate Armor of Etherealness
+---
 type: armor
 
 # Plate Armor of Etherealness 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Continual Flame
+---
 level: 2
 school: evocation
 classes: cleric

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Elk
+---
 type: beast
 cr: .25
 

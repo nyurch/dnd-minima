@@ -1,4 +1,7 @@
+---
+layout: default
 name: Riding Horse
+---
 type: beast
 cr: .25
 

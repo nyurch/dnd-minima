@@ -1,4 +1,7 @@
+---
+layout: default
 name: Transport via Plants
+---
 level: 6
 school: conjuration
 classes: druid

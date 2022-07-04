@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hydra
+---
 type: monstrosity
 cr: 8
 

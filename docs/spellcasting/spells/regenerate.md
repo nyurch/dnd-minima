@@ -1,4 +1,7 @@
+---
+layout: default
 name: Regenerate
+---
 level: 7
 school: transmutation
 classes: bard

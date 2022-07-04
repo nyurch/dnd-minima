@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spare the Dying
+---
 level: 0
 school: necromancy
 classes: cleric

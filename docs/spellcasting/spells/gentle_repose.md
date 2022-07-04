@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gentle Repose
+---
 level: 2
 school: necromancy
 classes: cleric

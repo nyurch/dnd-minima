@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Jumping
+---
 type: ring
 
 # Ring of Jumping 

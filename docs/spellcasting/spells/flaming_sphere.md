@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flaming Sphere
+---
 level: 2
 school: conjuration
 classes: druid

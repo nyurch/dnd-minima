@@ -1,4 +1,7 @@
+---
+layout: default
 name: Young Red Dragon
+---
 type: dragon
 cr: 10
 

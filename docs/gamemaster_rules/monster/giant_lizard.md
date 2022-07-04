@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Lizard
+---
 type: beast
 cr: .25
 

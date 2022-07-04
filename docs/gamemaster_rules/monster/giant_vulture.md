@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Vulture
+---
 type: beast
 cr: 1
 

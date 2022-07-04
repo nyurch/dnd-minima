@@ -1,4 +1,7 @@
+---
+layout: default
 name: Disintegrate
+---
 level: 6
 school: transmutation
 classes: sorcerer

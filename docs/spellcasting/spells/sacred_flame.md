@@ -1,4 +1,7 @@
+---
+layout: default
 name: Sacred Flame
+---
 level: 0
 school: evocation
 classes: cleric

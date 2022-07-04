@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Wolf Spider
+---
 type: beast
 cr: .25
 

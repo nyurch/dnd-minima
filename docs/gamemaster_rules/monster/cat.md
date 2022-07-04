@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cat
+---
 type: beast
 cr: 0
 

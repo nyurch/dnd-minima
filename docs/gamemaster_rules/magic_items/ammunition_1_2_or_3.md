@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ammunition, +1, +2 or +3
+---
 type: weapon
 
 # Ammunition, +1, +2, or +3 

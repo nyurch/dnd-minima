@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mammoth
+---
 type: beast
 cr: 6
 

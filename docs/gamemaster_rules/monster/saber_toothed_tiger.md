@@ -1,4 +1,7 @@
+---
+layout: default
 name: Saber-Toothed Tiger
+---
 type: beast
 cr: 2
 

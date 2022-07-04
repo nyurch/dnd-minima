@@ -1,4 +1,7 @@
+---
+layout: default
 name: Reverse Gravity
+---
 level: 7
 school: transmutation
 classes: druid

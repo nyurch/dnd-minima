@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bearded Devil
+---
 type: fiend (devil)
 cr: 3
 

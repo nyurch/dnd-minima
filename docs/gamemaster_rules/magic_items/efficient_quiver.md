@@ -1,4 +1,7 @@
+---
+layout: default
 name: Efficient Quiver
+---
 type: item
 
 # Efficient Quiver 

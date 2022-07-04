@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Warmth
+---
 type: ring
 
 # Ring of Warmth 

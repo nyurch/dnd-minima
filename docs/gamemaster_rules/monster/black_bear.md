@@ -1,4 +1,7 @@
+---
+layout: default
 name: Black bear
+---
 type: beast
 cr: .5
 

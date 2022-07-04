@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dispel Evil and Good
+---
 level: 5
 school: abjuration
 classes: cleric

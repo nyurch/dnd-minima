@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gust of Wind
+---
 level: 2
 school: evocation
 classes: druid

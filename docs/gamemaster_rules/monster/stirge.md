@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stirge
+---
 type: beast
 cr: .125
 

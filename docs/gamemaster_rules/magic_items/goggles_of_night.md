@@ -1,4 +1,7 @@
+---
+layout: default
 name: Goggles of Night
+---
 type: item
 
 # Goggles of Night 

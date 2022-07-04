@@ -1,4 +1,7 @@
+---
+layout: default
 name: Steam Mephit
+---
 type: elemental
 cr: .25
 

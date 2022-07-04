@@ -1,4 +1,7 @@
+---
+layout: default
 name: Control Water
+---
 level: 4
 school: transmutation
 classes: cleric

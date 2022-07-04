@@ -1,4 +1,7 @@
+---
+layout: default
 name: Camel
+---
 type: beast
 cr: .125
 

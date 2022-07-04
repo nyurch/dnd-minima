@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wight
+---
 type: undead
 cr: 3
 

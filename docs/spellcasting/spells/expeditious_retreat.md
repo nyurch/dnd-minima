@@ -1,4 +1,7 @@
+---
+layout: default
 name: Expeditious Retreat
+---
 level: 1
 school: transmutation
 classes: sorcerer

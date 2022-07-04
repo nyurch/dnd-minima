@@ -1,4 +1,7 @@
+---
+layout: default
 description: Rules and information for the Half-Orc race from the 5th Edition (5e) SRD (System Reference Document).
+---
 
 # Half-Orc 
 ## Half-Orc Traits 

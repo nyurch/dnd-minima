@@ -1,4 +1,7 @@
+---
+layout: default
 name: Brass Dragon Wyrmling
+---
 type: dragon
 cr: 1
 

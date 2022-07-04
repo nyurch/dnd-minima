@@ -1,4 +1,7 @@
+---
+layout: default
 name: Swarm of Poisonous Snakes
+---
 type: swarm of Tiny beasts
 cr: 2
 

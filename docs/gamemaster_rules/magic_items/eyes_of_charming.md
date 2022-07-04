@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eyes of Charming
+---
 type: item
 
 # Eyes of Charming 

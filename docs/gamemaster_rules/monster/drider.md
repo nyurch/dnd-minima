@@ -1,4 +1,7 @@
+---
+layout: default
 name: Drider
+---
 type: monstrosity
 cr: 6
 

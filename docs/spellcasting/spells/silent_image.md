@@ -1,4 +1,7 @@
+---
+layout: default
 name: Silent Image
+---
 level: 1
 school: illusion
 classes: bard

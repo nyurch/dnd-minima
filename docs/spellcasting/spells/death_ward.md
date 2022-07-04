@@ -1,4 +1,7 @@
+---
+layout: default
 name: Death Ward
+---
 level: 4
 school: abjuration
 classes: cleric

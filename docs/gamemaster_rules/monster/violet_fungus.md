@@ -1,4 +1,7 @@
+---
+layout: default
 name: Violet Fungus
+---
 type: plant
 cr: .25
 

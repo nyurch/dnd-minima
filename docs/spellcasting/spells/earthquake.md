@@ -1,4 +1,7 @@
+---
+layout: default
 name: Earthquake
+---
 level: 8
 school: evocation
 classes: cleric

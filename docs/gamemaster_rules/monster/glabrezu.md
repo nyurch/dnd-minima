@@ -1,4 +1,7 @@
+---
+layout: default
 name: Glabrezu
+---
 type: fiend (demon)
 cr: 9
 

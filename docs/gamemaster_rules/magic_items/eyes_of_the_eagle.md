@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eyes of the Eagle
+---
 type: item
 
 # Eyes of the Eagle 

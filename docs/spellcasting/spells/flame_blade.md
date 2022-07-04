@@ -1,4 +1,7 @@
+---
+layout: default
 name: Flame Blade
+---
 level: 2
 school: evocation
 classes: druid

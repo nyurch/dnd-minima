@@ -1,4 +1,7 @@
+---
+layout: default
 name: Awaken
+---
 level: 5
 school: transmutation
 classes: bard

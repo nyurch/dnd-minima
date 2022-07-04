@@ -1,4 +1,7 @@
+---
+layout: default
 name: Centaur
+---
 type: monstrosity
 cr: 2
 

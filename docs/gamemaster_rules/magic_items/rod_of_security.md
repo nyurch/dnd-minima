@@ -1,4 +1,7 @@
+---
+layout: default
 name: Rod of Security
+---
 type: rod
 
 # Rod of Security 

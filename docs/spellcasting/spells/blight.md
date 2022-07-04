@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blight
+---
 level: 4
 school: necromancy
 classes: druid

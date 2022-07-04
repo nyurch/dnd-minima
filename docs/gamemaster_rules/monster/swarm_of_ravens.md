@@ -1,4 +1,7 @@
+---
+layout: default
 name: Swarm of Ravens
+---
 type: swarm of Tiny beasts
 cr: .25
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Nalfeshnee
+---
 type: fiend (demon)
 cr: 13
 

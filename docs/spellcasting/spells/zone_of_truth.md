@@ -1,4 +1,7 @@
+---
+layout: default
 name: Zone of Truth
+---
 level: 2
 school: enchantment
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dominate Person
+---
 level: 5
 school: enchantment
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Darkvision
+---
 level: 2
 school: transmutation
 classes: druid

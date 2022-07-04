@@ -1,4 +1,7 @@
+---
+layout: default
 name: Couatl
+---
 type: celestial
 cr: 4
 

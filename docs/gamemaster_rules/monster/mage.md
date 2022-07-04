@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mage
+---
 type: humanoid (any race)
 cr: 6
 

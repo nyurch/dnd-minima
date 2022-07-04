@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gladiator
+---
 type: humanoid (any race)
 cr: 5
 

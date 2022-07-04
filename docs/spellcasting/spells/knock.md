@@ -1,4 +1,7 @@
+---
+layout: default
 name: Knock
+---
 level: 2
 school: transmutation
 classes: bard

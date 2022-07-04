@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Flying
+---
 type: potion
 
 # Potion of Flying 

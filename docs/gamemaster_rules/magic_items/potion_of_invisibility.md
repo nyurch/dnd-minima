@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Invisibility
+---
 type: potion
 
 # Potion of Invisibility 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bane
+---
 level: 1
 school: enchantment
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Detect Thoughts
+---
 level: 2
 school: divination
 classes: bard

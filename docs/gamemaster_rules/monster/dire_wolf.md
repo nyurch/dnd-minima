@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dire Wolf
+---
 type: beast
 cr: 1
 

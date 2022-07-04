@@ -1,4 +1,7 @@
+---
+layout: default
 name: Harpy
+---
 type: monstrosity
 cr: 1
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animate Objects
+---
 level: 5
 school: transmutation
 classes: bard

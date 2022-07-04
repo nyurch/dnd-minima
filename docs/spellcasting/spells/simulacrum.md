@@ -1,4 +1,7 @@
+---
+layout: default
 name: Simulacrum
+---
 level: 7
 school: illusion
 classes: wizard

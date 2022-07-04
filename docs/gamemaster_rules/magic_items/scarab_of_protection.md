@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scarab of Protection
+---
 type: item
 
 # Scarab of Protection 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Freezing Sphere
+---
 level: 6
 school: evocation
 classes: wizard

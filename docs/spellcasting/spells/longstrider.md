@@ -1,4 +1,7 @@
+---
+layout: default
 name: Longstrider
+---
 level: 1
 school: transmutation
 classes: bard

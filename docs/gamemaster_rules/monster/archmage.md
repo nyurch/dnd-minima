@@ -1,4 +1,7 @@
+---
+layout: default
 name: Archmage
+---
 type: humanoid (any race)
 cr: 12
 

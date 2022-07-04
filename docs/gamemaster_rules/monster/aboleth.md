@@ -1,4 +1,7 @@
+---
+layout: default
 name: Aboleth
+---
 cr: 10
 type: aberration
 

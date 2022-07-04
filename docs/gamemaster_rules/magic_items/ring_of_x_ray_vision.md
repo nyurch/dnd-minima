@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of X-ray Vision
+---
 type: ring
 
 # Ring of X-ray Vision 

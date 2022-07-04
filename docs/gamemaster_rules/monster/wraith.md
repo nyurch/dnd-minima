@@ -1,4 +1,7 @@
+---
+layout: default
 name: Wraith
+---
 type: undead
 cr: 5
 

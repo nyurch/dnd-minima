@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Elemental Command
+---
 type: ring
 
 # Ring of Elemental Command 

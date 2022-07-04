@@ -1,4 +1,7 @@
+---
+layout: default
 name: Jackal
+---
 type: beast
 cr: 0
 

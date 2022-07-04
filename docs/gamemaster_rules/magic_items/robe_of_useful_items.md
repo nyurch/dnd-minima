@@ -1,4 +1,7 @@
+---
+layout: default
 name: Robe of Useful Items
+---
 type: item
 
 # Robe of Useful Items 

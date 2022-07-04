@@ -1,4 +1,7 @@
+---
+layout: default
 name: Eyes of Minute Seeing
+---
 type: item
 
 # Eyes of Minute Seeing 

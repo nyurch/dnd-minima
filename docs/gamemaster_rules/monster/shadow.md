@@ -1,4 +1,7 @@
+---
+layout: default
 name: Shadow
+---
 type: undead
 cr: .5
 

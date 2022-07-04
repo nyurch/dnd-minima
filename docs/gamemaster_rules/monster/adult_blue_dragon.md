@@ -1,4 +1,7 @@
+---
+layout: default
 name: Adult Blue Dragon
+---
 type: dragon
 cr: 16
 

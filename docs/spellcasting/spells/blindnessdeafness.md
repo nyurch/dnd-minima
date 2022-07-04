@@ -1,4 +1,7 @@
+---
+layout: default
 name: Blindness/Deafness
+---
 level: 2
 school: necromancy
 classes: bard

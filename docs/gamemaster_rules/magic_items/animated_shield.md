@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animated Shield
+---
 type: armor
 
 # Animated Shield 

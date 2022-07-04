@@ -1,4 +1,7 @@
+---
+layout: default
 name: Cape of the Mountebank
+---
 type: item
 
 # Cape of the Mountebank 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ghast
+---
 type: undead
 cr: 2
 

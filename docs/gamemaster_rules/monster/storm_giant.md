@@ -1,4 +1,7 @@
+---
+layout: default
 name: Storm Giant
+---
 type: giant
 cr: 13
 

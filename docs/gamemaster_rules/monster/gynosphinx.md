@@ -1,4 +1,7 @@
+---
+layout: default
 name: Gynosphinx
+---
 type: monstrosity
 cr: 11
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Tiny Hut
+---
 level: 3
 school: evocation
 classes: bard

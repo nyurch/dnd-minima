@@ -1,4 +1,7 @@
+---
+layout: default
 name: Spider
+---
 type: beast
 cr: 0
 

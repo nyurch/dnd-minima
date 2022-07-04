@@ -1,4 +1,7 @@
+---
+layout: default
 name: Planetar
+---
 cr: 16
 type: celestial
 

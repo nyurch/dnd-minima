@@ -1,4 +1,7 @@
+---
+layout: default
 name: Ring of Invisibility
+---
 type: ring
 
 # Ring of Invisibility 

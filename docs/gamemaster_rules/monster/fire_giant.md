@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fire Giant
+---
 type: giant
 cr: 9
 

@@ -1,4 +1,7 @@
+---
+layout: default
 name: True Seeing
+---
 level: 6
 school: divination
 classes: bard

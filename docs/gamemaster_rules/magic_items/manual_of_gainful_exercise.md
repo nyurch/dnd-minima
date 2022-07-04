@@ -1,4 +1,7 @@
+---
+layout: default
 name: Manual of Gainful Exercise
+---
 type: item
 
 # Manual of Gainful Exercise 

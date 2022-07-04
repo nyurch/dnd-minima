@@ -1,4 +1,7 @@
+---
+layout: default
 name: Hill Giant
+---
 type: giant
 cr: 5
 

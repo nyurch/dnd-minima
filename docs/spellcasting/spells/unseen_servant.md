@@ -1,4 +1,7 @@
+---
+layout: default
 name: Unseen Servant
+---
 level: 1
 school: conjuration
 classes: bard

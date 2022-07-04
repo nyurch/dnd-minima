@@ -1,4 +1,7 @@
+---
+layout: default
 name: Mass Cure Wounds
+---
 level: 5
 school: evocation
 classes: bard

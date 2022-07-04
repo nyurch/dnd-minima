@@ -1,4 +1,7 @@
+---
+layout: default
 name: Lemure
+---
 type: fiend (devil)
 cr: 0
 

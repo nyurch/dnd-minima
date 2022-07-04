@@ -1,4 +1,7 @@
+---
+layout: default
 name: Augury
+---
 level: 2
 school: divination
 classes: cleric

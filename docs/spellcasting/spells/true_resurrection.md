@@ -1,4 +1,7 @@
+---
+layout: default
 name: True Resurrection
+---
 level: 9
 school: necromancy
 classes: cleric

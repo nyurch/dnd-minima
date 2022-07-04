@@ -1,4 +1,7 @@
+---
+layout: default
 name: Animal Messenger
+---
 level: 2
 school: enchantment
 classes: bard

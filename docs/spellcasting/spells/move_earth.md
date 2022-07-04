@@ -1,4 +1,7 @@
+---
+layout: default
 name: Move Earth
+---
 level: 6
 school: transmutation
 classes: druid

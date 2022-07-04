@@ -1,4 +1,7 @@
+---
+layout: default
 name: Bat
+---
 type: beast
 cr: 0
 

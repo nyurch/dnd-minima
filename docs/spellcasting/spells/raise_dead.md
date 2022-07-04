@@ -1,4 +1,7 @@
+---
+layout: default
 name: Raise Dead
+---
 level: 5
 school: necromancy
 classes: bard

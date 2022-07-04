@@ -1,4 +1,7 @@
+---
+layout: default
 name: Guardian of Faith
+---
 level: 4
 school: conjuration
 classes: cleric

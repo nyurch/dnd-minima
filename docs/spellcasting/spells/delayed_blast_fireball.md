@@ -1,4 +1,7 @@
+---
+layout: default
 name: Delayed Blast Fireball
+---
 level: 7
 school: evocation
 classes: sorcerer

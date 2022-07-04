@@ -1,4 +1,7 @@
+---
+layout: default
 name: Disguise Self
+---
 level: 1
 school: illusion
 classes: bard

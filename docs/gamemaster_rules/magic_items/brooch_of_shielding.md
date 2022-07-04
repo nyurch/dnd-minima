@@ -1,4 +1,7 @@
+---
+layout: default
 name: Brooch of Shielding
+---
 type: item
 
 # Brooch of Shielding 

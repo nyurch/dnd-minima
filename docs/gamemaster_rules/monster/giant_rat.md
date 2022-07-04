@@ -1,4 +1,7 @@
+---
+layout: default
 name: Giant Rat
+---
 type: beast
 cr: .125
 

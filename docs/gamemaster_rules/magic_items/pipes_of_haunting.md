@@ -1,4 +1,7 @@
+---
+layout: default
 name: Pipes of Haunting
+---
 type: item
 
 # Pipes of Haunting 

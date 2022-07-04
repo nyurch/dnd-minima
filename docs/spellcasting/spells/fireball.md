@@ -1,4 +1,7 @@
+---
+layout: default
 name: Fireball
+---
 level: 3
 school: evocation
 classes: sorcerer

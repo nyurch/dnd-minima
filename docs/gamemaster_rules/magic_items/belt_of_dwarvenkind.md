@@ -1,4 +1,7 @@
+---
+layout: default
 name: Belt of Dwarvenkind
+---
 type: item
 
 # Belt of Dwarvenkind 

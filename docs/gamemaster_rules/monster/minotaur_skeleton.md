@@ -1,4 +1,7 @@
+---
+layout: default
 name: Minotaur Skeleton
+---
 type: undead
 cr: 2
 

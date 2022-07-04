@@ -1,4 +1,7 @@
+---
+layout: default
 name: Antilife Shell
+---
 level: 5
 school: abjuration
 classes: druid

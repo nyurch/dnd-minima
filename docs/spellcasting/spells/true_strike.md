@@ -1,4 +1,7 @@
+---
+layout: default
 name: True Strike
+---
 level: 0
 school: divination
 classes: bard

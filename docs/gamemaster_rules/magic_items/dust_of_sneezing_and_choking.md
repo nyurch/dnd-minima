@@ -1,4 +1,7 @@
+---
+layout: default
 name: Dust of Sneezing and Choking
+---
 type: item
 
 # Dust of Sneezing and Choking 

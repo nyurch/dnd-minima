@@ -1,4 +1,7 @@
+---
+layout: default
 name: Manual of Golems
+---
 type: item
 
 # Manual of Golems 

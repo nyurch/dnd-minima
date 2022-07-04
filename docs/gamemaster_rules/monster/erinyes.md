@@ -1,4 +1,7 @@
+---
+layout: default
 name: Erinyes
+---
 type: fiend (devil)
 cr: 12
 

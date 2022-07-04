@@ -1,4 +1,7 @@
+---
+layout: default
 name: Robe of Eyes
+---
 type: item
 
 # Robe of Eyes 

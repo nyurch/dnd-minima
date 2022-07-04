@@ -1,4 +1,7 @@
+---
+layout: default
 name: Succubus/Incubus
+---
 type: fiend (shapechanger)
 cr: 4
 

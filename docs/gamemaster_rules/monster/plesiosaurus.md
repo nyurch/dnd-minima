@@ -1,4 +1,7 @@
+---
+layout: default
 name: Plesiosaurus
+---
 type: beast
 cr: 2
 

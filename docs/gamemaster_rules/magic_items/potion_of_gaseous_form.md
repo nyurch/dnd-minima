@@ -1,4 +1,7 @@
+---
+layout: default
 name: Potion of Gaseous Form
+---
 type: potion
 
 # Potion of Gaseous Form 

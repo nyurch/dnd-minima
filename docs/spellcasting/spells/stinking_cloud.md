@@ -1,4 +1,7 @@
+---
+layout: default
 name: Stinking Cloud
+---
 level: 3
 school: conjuration
 classes: bard

@@ -1,4 +1,7 @@
+---
+layout: default
 name: Time Stop
+---
 level: 9
 school: transmutation
 classes: sorcerer

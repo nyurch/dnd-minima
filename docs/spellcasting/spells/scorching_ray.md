@@ -1,4 +1,7 @@
+---
+layout: default
 name: Scorching Ray
+---
 level: 2
 school: evocation
 classes: sorcerer
