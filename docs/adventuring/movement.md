@@ -1,10 +1,6 @@
----
-layout: post
-title: Movement.
-category: [Adventuring]
-description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).
----
+description: Rules for managing movement and travel from the 5th Edition (5e) SRD (System Reference Document).
 
+# Movement 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope--all sorts of movement play a key role in fantasy gaming adventures.
 
 The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
