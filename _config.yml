@@ -1,7 +1,7 @@
 host: 0.0.0.0
 title: 5e УКРАЇНСЬКОЮ
 description: Переклад Source Reference Document на основі Open Game License v.1.0a
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
 baseurl: "/dnd-minima"
