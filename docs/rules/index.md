@@ -1,26 +1,27 @@
 ---
+title: Rules
 layout: default
-# Rules
 ---
+
 ## General Rules
 
-* [Advantage and Disadvantage](/rules/advantage_and_disadvantage/)
-* [Conditions](/rules/conditions/)
-* [Expenses](/rules/expenses/)
-* [Feats](/rules/feats/)
-* [Inspiration](/rules/inspiration/)
-* [Leveling Up](/rules/leveling_up/)
-* [Multiclassing](/rules/multiclassing/)
-* [Proficiency Bonus](/rules/proficiency_bonus/)
+* [Advantage and Disadvantage](/docs/rules/advantage_and_disadvantage.html)
+* [Conditions](/docs/rules/conditions.html)
+* [Expenses](/docs/rules/expenses.html)
+* [Feats](/docs/rules/feats.html)
+* [Inspiration](/docs/rules/inspiration.html)
+* [Leveling Up](/docs/rules/leveling_up.html)
+* [Multiclassing](/docs/rules/multiclassing.html)
+* [Proficiency Bonus](/docs/rules/proficiency_bonus.html)
 
 ## Abilities
 
-* [Ability Checks](/rules/abilities/ability_checks/)
-* [Ability Scores](/rules/abilities/ability_scores/)
-* [Saving Throws](/rules/abilities/saving_throws/)  
-* [Charisma](/rules/abilities/charisma/)            
-* [Constitution](/rules/abilities/constitution/)    
-* [Dexterity](/rules/abilities/dexterity/)          
-* [Intelligence](/rules/abilities/intelligence/)    
-* [Strength](/rules/abilities/strength/)            
-* [Wisdom](/rules/abilities/wisdom/)        
+* [Ability Checks](/docs/rules/abilities/ability_checks.html)
+* [Ability Scores](/docs/rules/abilities/ability_scores.html)
+* [Saving Throws](/docs/rules/abilities/saving_throws.html)
+* [Charisma](/docs/rules/abilities/charisma.html)
+* [Constitution](/docs/rules/abilities/constitution.html)
+* [Dexterity](/docs/rules/abilities/dexterity.html)
+* [Intelligence](/docs/rules/abilities/intelligence.html)
+* [Strength](/docs/rules/abilities/strength.html)
+* [Wisdom](/docs/rules/abilities/wisdom.html)
