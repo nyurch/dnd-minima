@@ -1,37 +1,37 @@
 ---
+title: Character
 layout: default
-# Character
 ---
 
 ## General Character
-* [Alignment](/character/alignment/)
-* [Backgrounds](/character/backgrounds/)
-* [Fantasy-Historical Pantheons](/character/fantasy-historical_pantheons/)
-* [Languages](/character/languages)
+* [Alignment](/docs/character/alignment.html)
+* [Backgrounds](/docs/character/backgrounds.html)
+* [Fantasy-Historical Pantheons](/docs/character/fantasy-historical_pantheons.html)
+* [Languages](/docs/character/languages.html)
 
 ## Classes
 
-* [Barbarian](/character/classes/barbarian/)
-* [Bard](/character/classes/bard/)
-* [Cleric](/character/classes/cleric/)
-* [Druid](/character/classes/druid/)
-* [Fighter](/character/classes/fighter/)
-* [Monk](/character/classes/monk/)
-* [Paladin](/character/classes/paladin/)
-* [Ranger](/character/classes/ranger/)
-* [Rogue](/character/classes/rogue/)
-* [Sorcerer](/character/classes/sorcerer/)
-* [Warlock](/character/classes/warlock/)
-* [Wizard](/character/classes/wizard/)
+* [Barbarian](/docs/character/classes/barbarian.html)
+* [Bard](/docs/character/classes/bard.html)
+* [Cleric](/docs/character/classes/cleric.html)
+* [Druid](/docs/character/classes/druid.html)
+* [Fighter](/docs/character/classes/fighter.html)
+* [Monk](/docs/character/classes/monk.html)
+* [Paladin](/docs/character/classes/paladin.html)
+* [Ranger](/docs/character/classes/ranger.html)
+* [Rogue](/docs/character/classes/rogue.html)
+* [Sorcerer](/docs/character/classes/sorcerer.html)
+* [Warlock](/docs/character/classes/warlock.html)
+* [Wizard](/docs/character/classes/wizard.html)
 
 ## Races
 
-* [Dragonborn](/character/races/dragonborn/)
-* [Dwarf](/character/races/dwarf/)
-* [Elf](/character/races/elf/)
-* [Gnome](/character/races/gnome/)
-* [Half-Elf](/character/races/half-elf/)
-* [Half-Orc](/character/races/half-orc/)
-* [Halfling](/character/races/halfling/)
-* [Human](/character/races/human/)
-* [Tiefling](/character/races/tiefling/)
+* [Dragonborn](/docs/character/races/dragonborn.html)
+* [Dwarf](/docs/character/races/dwarf.html)
+* [Elf](/docs/character/races/elf.html)
+* [Gnome](/docs/character/races/gnome.html)
+* [Half-Elf](/docs/character/races/half-elf.html)
+* [Half-Orc](/docs/character/races/half-orc.html)
+* [Halfling](/docs/character/races/halfling.html)
+* [Human](/docs/character/races/human.html)
+* [Tiefling](/docs/character/races/tiefling.html)
