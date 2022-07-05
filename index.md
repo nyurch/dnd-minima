@@ -87,3 +87,5 @@ layout: default
 |                                               |                                         | [Чарівник](./docs/spellcasting/spell_lists/wizard_spells.html)     
 
 ## 7) Test
+
+## Фігня
