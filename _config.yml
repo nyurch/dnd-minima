@@ -3,3 +3,4 @@ description: Переклад Source Reference Document на основі Open G
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+baseurl: "/dnd-minima"
