@@ -1,25 +1,26 @@
 ---
+title: Spellcasting
 layout: default
-# Spellcasting
 ---
+
 ## General Spellcasting
 
-* [Casting a Spell](/spellcasting/casting_a_spell/)
-* [What is a Spell?](/spellcasting/what_is_a_spell/)
+* [Casting a Spell](/docs/spellcasting/casting_a_spell.html)
+* [What is a Spell?](/docs/spellcasting/what_is_a_spell.html)
 
 ## Spell Indexes
 
-* [Spells by Level](/spellcasting/spell_indexes/spells_by_level/)
-* [Spells by Name](/spellcasting/spell_indexes/spells_by_name/)
-* [Spells by School](/spellcasting/spell_indexes/spells_by_school)
+* [Spells by Level](/docs/spellcasting/spell_indexes/spells_by_level.html)
+* [Spells by Name](/docs/spellcasting/spell_indexes/spells_by_name.html)
+* [Spells by School](/docs/spellcasting/spell_indexes/spells_by_school.html)
 
 ## Spell Lists
 
-* [Bard](/spellcasting/spell_lists/bard_spells/)
-* [Cleric](/spellcasting/spell_lists/cleric_spells/)
-* [Druid](/spellcasting/spell_lists/druid_spells/)
-* [Paladin](/spellcasting/spell_lists/paladin_spells/)
-* [Ranger](/spellcasting/spell_lists/ranger_spells/)
-* [Sorcerer](/spellcasting/spell_lists/sorcerer_spells/)
-* [Warlock](/spellcasting/spell_lists/warlock_spells/)
-* [Wizard](/spellcasting/spell_lists/wizard_spells/)
+* [Bard](/docs/spellcasting/spell_lists/bard_spells.html)
+* [Cleric](/docs/spellcasting/spell_lists/cleric_spells.html)
+* [Druid](/docs/spellcasting/spell_lists/druid_spells.html)
+* [Paladin](/docs/spellcasting/spell_lists/paladin_spells.html)
+* [Ranger](/docs/spellcasting/spell_lists/ranger_spells.html)
+* [Sorcerer](/docs/spellcasting/spell_lists/sorcerer_spells.html)
+* [Warlock](/docs/spellcasting/spell_lists/warlock_spells.html)
+* [Wizard](/docs/spellcasting/spell_lists/wizard_spells.html)
