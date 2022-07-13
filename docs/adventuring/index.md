@@ -1,5 +1,0 @@
----
-title: Adventuring
-layout: default
----
-

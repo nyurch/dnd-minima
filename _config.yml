@@ -1,7 +1,52 @@
+repository: nyurch/dnd-minima
+
+topnav_title: 5e українською
+# this appears on the top navigation bar next to the home button
+
+site_title: 5e українською. Переклад Source Reference Document на основі Open Game License v.1.0a
+
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+company_name: Copyright 2021 Google LLC
+# this appears in the footer
+
 host: 0.0.0.0
-title: 5e УКРАЇНСЬКОЮ
-description: Переклад Source Reference Document на основі Open Game License v.1.0a
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-leap-day
-baseurl: "/dnd-minima"
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
+exclude:
+  - .idea/
+  - .gitignore
+  - vendor
+# these are the files and directories that jekyll will exclude from the build
+
+feedback_subject_line: 5e українською
+
+feedback_email: osa@gmail.com
+# used as a contact email for the Feedback link in the top navigation bar
+
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+# feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
+
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
+
+highlighter: rouge
+# library used for syntax highlighting
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+# the description is used in the feed.xml file
+
+github: [metadata]
