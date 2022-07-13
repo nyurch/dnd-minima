@@ -9,10 +9,7 @@ search: exclude
 {% for page in pages %}
 {
 "title": "{{ page.title | escape }}",
-"tags": "{{ page.tags }}",
-"keywords": "{{page.keywords}}",
-"url": "{{ page.url | remove: "/"}}",
-"summary": "{{page.summary | strip }}"
+"url": "{{ page.url | remove: "/"}}"
 }
 {% unless forloop.last and site.posts.size < 1 %},{% endunless %}
 {% endfor %}
@@ -21,10 +18,7 @@ search: exclude
 
 {
 "title": "{{ post.title | escape }}",
-"tags": "{{ post.tags }}",
-"keywords": "{{post.keywords}}",
-"url": "{{ post.url | remove: "/" }}",
-"summary": "{{post.summary | strip }}"
+"url": "{{ post.url | remove: "/" }}"
 }
 {% unless forloop.last %},{% endunless %}
 {% endfor %}
