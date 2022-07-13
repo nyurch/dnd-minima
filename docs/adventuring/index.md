@@ -1,7 +1,7 @@
 ---
 layout: page
 category: index
-title: Бій
+title: Пригоди вцілому
 ---
 * [Дії в битві](/dnd-minima/docs/combat/actions_in_combat.html)
 * [Обкладинка](/dnd-minima/docs/combat/cover.html)
