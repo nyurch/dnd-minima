@@ -1,5 +1,5 @@
 ---
 layout: page_spell
-category: spells
+category: index
 title: Links
 ---
