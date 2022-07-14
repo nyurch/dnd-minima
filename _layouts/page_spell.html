@@ -23,7 +23,7 @@ layout: default
             {%- endfor -%}
 
         <h2>Згенерований список</h2>
-            {% assign sortedPosts = site.docs.spellcasting | sort: 'title' %}
+            {% assign sortedPosts = site.docs | sort: 'title' %}
             {% for doc in sortedPosts %}
 
                 <p><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></p>
