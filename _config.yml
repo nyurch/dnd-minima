@@ -52,3 +52,7 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 github: [metadata]
+
+collections:
+  docs:
+    output: true
