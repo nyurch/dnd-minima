@@ -25,9 +25,9 @@ layout: default
         <h2>Згенерований список</h2>
             {% assign sortedPosts = site.docs | sort: 'title' %}
             {% for doc in sortedPosts %}
-
+              {%- if doc.category == "spells" -%}
                 <p><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></p>
-
+              {%- endif -%}
             {% endfor %}
 
 </div>
