@@ -1,9 +1,7 @@
 ---
 layout: page
-category: index
 title: Класи персонажів
 ---
-* [Barbarian]({{site.baseurl}}/docs/character/classes/barbarian.html)
 * [Bard]({{site.baseurl}}/docs/character/classes/bard.html)
 * [Cleric]({{site.baseurl}}/docs/character/classes/cleric.html)
 * [Druid]({{site.baseurl}}/docs/character/classes/druid.html)

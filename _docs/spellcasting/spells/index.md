@@ -1,5 +1,4 @@
 ---
-layout: page_spell
-category: index
+layout: page
 title: Links
 ---
