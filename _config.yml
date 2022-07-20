@@ -1,27 +1,58 @@
-# Setup
-title:               Lanyon based custom theme
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer.'
-url:                 ''
-baseurl:             '/jekyll_docs_theme'
-#paginate:            5
-#permalink:           pretty
+repository: nyurch/dnd-minima
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+topnav_title: 5e українською
+# this appears on the top navigation bar next to the home button
 
-# Gems
-plugins:
-  - jekyll-paginate
+site_title: 5e українською. Переклад Source Reference Document на основі Open Game License v.1.0a
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-# Collections
+company_name: Copyright 2021 Google LLC
+# this appears in the footer
+
+host: 0.0.0.0
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
+baseurl: "/jekyll_docs_theme"
+
+exclude:
+  - .idea/
+  - .gitignore
+  - vendor
+# these are the files and directories that jekyll will exclude from the build
+
+feedback_subject_line: 5e українською
+
+feedback_email: osa@gmail.com
+# used as a contact email for the Feedback link in the top navigation bar
+
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+# feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
+
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
+
+highlighter: rouge
+# library used for syntax highlighting
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+# the description is used in the feed.xml file
+
+github: [metadata]
+
 collections:
   docs:
     output: true

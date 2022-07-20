@@ -1,7 +1,9 @@
 ---
 layout: page
+category: index
 title: Правила майстра
 ---
+## General Gamemaster Rules
 * [Diseases]({{site.baseurl}}/docs/gamemaster_rules/diseases.html)
 * [Legendary Creatures]({{site.baseurl}}/docs/gamemaster_rules/legendary_creatures.html)
 * [Madness]({{site.baseurl}}/docs/gamemaster_rules/madness.html)

@@ -1,7 +1,9 @@
 ---
 layout: page
+category: index
 title: Правила
 ---
+## General Rules
 * [Advantage and Disadvantage]({{site.baseurl}}/docs/rules/advantage_and_disadvantage.html)
 * [Conditions]({{site.baseurl}}/docs/rules/conditions.html)
 * [Expenses]({{site.baseurl}}/docs/rules/expenses.html)
